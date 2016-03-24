@@ -4,6 +4,8 @@ import {RouteConfig, ROUTER_DIRECTIVES} from 'angular2/router';
 import {LocationComponent} from './LocationComponent/location.component';
 import {UserComponent} from './UserComponent/user.component';
 
+import {LocationService} from './services/location.service';
+
 @Component({
     selector: 'dash',
     template: '<router-outlet></router-outlet>',
@@ -15,4 +17,5 @@ import {UserComponent} from './UserComponent/user.component';
     {path: '/user/:id', name: 'User', component: UserComponent},
 ])
 
-export class AppComponent {}
+export class AppComponent {
+}
