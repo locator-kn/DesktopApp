@@ -1,6 +1,6 @@
 node_modules/
 .idea
 typings
-
 *.js
 *js.map
+app/components

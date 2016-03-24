@@ -5,18 +5,15 @@ import {RouteParams, Router} from 'angular2/router';
     template: '<h2>Location</h2>'
 })
 
-export class UserComponent implements OnInit {
+export class UserComponent {
 
     location:Location;
 
     constructor(private _router:Router,
                 private _routeParams:RouteParams) {
-    }
 
-    ngOnInit() {
         let id = this._routeParams.get('id');
         console.info(id);
-        //this._service.getHero(id).then(hero => this.hero = hero);
-    }
 
+    }
 }

@@ -1,28 +1,28 @@
 import {Component} from 'angular2/core';
 import {RouteParams, Router} from 'angular2/router';
-import {LocationService} from '../services/location.service'
+import {LocationService} from '../services/location.service';
 
 @Component({
-    template: '<h2>Location</h2>'
+    templateUrl: './app/locationComponent/template.html'
 })
-export class LocationComponent implements OnInit {
 
-    location:Location;
+export class LocationComponent {
 
-    constructor(private _router:Router,
-                private _routeParams:RouteParams,
-                private _locationService:LocationService) {
+    locations:Locations;
 
-        _locationService.locations
-            .subscribe(
-                people => this.people = people,
-                error => console.error('Error: ' + err),
-                () => console.log('Completed!')
-            );
-    }
+    constructor(private _router:Router, private _routeParams:RouteParams, private locationService:LocationService) {
 
-    ngOnInit() {
         let id = this._routeParams.get('id');
+        console.info(id);
+        console.info("jojo");
+
+        locationService.getLocations().subscribe(
+            data => {
+                this.locations = data;
+                console.info(this.locations);
+            },
+            err => console.err(err)
+        );
     }
 
 }

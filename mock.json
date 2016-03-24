@@ -1,0 +1,5539 @@
+[
+  {
+    "dis": 0,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb4",
+      "preLocation": false,
+      "create_date": "2015-07-22T10:19:22.293Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66868204997508,9.169753789901733",
+        "xlarge": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bb0/locator_headquarter.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bb4/locator_headquarter.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bb6/locator_headquarter.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bb8/locator_headquarter.jpeg"
+      },
+      "modified_date": "2016-01-28T15:52:12.896Z",
+      "tags": [
+        "locator",
+        "arbeit",
+        "baden",
+        "programmieren",
+        "entwickeln",
+        "designen",
+        "Innovation",
+        "spaß"
+      ],
+      "title": "Locator Headquarter",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.169753789901733,
+          47.66868204997508
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab66",
+        "56e833ad2deba7535a8df76e",
+        "56e82bd502e5a70b4fccab47",
+        "56e8543b6ef01db36eb26a19",
+        "56e855e86ef01db36eb26a1d",
+        "56e855bf6ef01db36eb26a1c",
+        "56e855846ef01db36eb26a1b",
+        "56e857586ef01db36eb26a20",
+        "56e82bd502e5a70b4fccaa2f",
+        "56e82bd502e5a70b4fccab8b",
+        "56e82bd502e5a70b4fccab84",
+        "56e82bd502e5a70b4fccab89",
+        "56e82bd502e5a70b4fccaa99"
+      ]
+    }
+  },
+  {
+    "dis": 0.017867062092114687,
+    "obj": {
+      "_id": "56e87d2d0b1fe01e10c8e34c",
+      "user_id": "56e82bd502e5a70b4fccab66",
+      "title": "blub",
+      "categories": [
+        "nightlife",
+        "culture"
+      ],
+      "favorites": [
+        "56e833ad2deba7535a8df76e",
+        "56e82bd502e5a70b4fccab8b",
+        "56e857586ef01db36eb26a20"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.1696704,
+          47.6685315
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e87d294ab8d8aa6e8d6c4a/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e87d294ab8d8aa6e8d6c4b/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e87d294ab8d8aa6e8d6c4c/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e87d294ab8d8aa6e8d6c4d/image.jpg"
+      },
+      "city": {
+        "title": "Konstanz",
+        "place_id": "69388767"
+      },
+      "create_date": "2016-03-15T21:22:53.510Z",
+      "modified_date": "2016-03-15T21:22:53.510Z"
+    }
+  },
+  {
+    "dis": 0.025111219928334087,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cbd",
+      "preLocation": false,
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66841743450943,9.170437082648277",
+        "xlarge": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c06/strandbar_konstanz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c08/strandbar_konstanz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c0a/strandbar_konstanz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c0c/strandbar_konstanz.jpeg"
+      },
+      "tags": [
+        "Strandbar",
+        "Konstanz",
+        "Bier",
+        "Strand",
+        "Cocktails"
+      ],
+      "title": "Strandbar Konstanz",
+      "city": {
+        "title": "Konstanz",
+        "id": "58433437e7710a957cd798b0774a79385389035b",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.169710874557495,
+          47.668906023791884
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "create_date": "2015-07-18T02:19:43.792Z",
+      "isDefault": true,
+      "modified_date": "2015-11-29T14:44:54.957Z",
+      "user_id": "56e82bd502e5a70b4fccac1d",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab66",
+        "56e857586ef01db36eb26a20",
+        "56e82bd502e5a70b4fccab87",
+        "56e82bd502e5a70b4fccaa77",
+        "56e82bd502e5a70b4fccaa99"
+      ]
+    }
+  },
+  {
+    "dis": 0.1791361294410608,
+    "obj": {
+      "_id": "56f16db131f4b2525ec2fe3e",
+      "user_id": "56e82bd502e5a70b4fccaa77",
+      "title": "Steffen I love you",
+      "categories": [
+        "culture"
+      ],
+      "favorites": [
+        "56e82bd502e5a70b4fccaa77"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.1701,
+          47.667088
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56f16daf1fa0425b5ea4d2fb/file.png",
+        "large": "/api/v2/locations/impression/image/56f16daf1fa0425b5ea4d2fc/file.png",
+        "normal": "/api/v2/locations/impression/image/56f16daf1fa0425b5ea4d2fd/file.png",
+        "small": "/api/v2/locations/impression/image/56f16daf1fa0425b5ea4d2fe/file.png"
+      },
+      "city": {
+        "title": "Konstanz",
+        "place_id": "58561086"
+      },
+      "create_date": "2016-03-22T16:07:13.411Z",
+      "modified_date": "2016-03-22T16:07:13.411Z"
+    }
+  },
+  {
+    "dis": 0.18276546160190996,
+    "obj": {
+      "_id": "56f1694e31f4b2525ec2fe28",
+      "user_id": "56e82bd502e5a70b4fccaa77",
+      "title": "gockel!",
+      "categories": [
+        "nightlife"
+      ],
+      "favorites": [
+        "56e833ad2deba7535a8df76e"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.169891,
+          47.667041
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56f1694c1fa0425b5ea4d2e7/file.png",
+        "large": "/api/v2/locations/impression/image/56f1694c1fa0425b5ea4d2e8/file.png",
+        "normal": "/api/v2/locations/impression/image/56f1694c1fa0425b5ea4d2e9/file.png",
+        "small": "/api/v2/locations/impression/image/56f1694c1fa0425b5ea4d2ea/file.png"
+      },
+      "city": {
+        "title": "Konstanz",
+        "place_id": "95515474"
+      },
+      "create_date": "2016-03-22T15:48:30.113Z",
+      "modified_date": "2016-03-22T15:48:30.113Z"
+    }
+  },
+  {
+    "dis": 0.18276546160190996,
+    "obj": {
+      "_id": "56f169de31f4b2525ec2fe39",
+      "user_id": "56e82bd502e5a70b4fccaa77",
+      "title": "fuß",
+      "categories": [
+        "secret"
+      ],
+      "favorites": [
+        "56e82bd502e5a70b4fccaa77",
+        "56e82bd502e5a70b4fccab84"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.169891,
+          47.667041
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56f169db1fa0425b5ea4d2ef/file.png",
+        "large": "/api/v2/locations/impression/image/56f169db1fa0425b5ea4d2f0/file.png",
+        "normal": "/api/v2/locations/impression/image/56f169db1fa0425b5ea4d2f1/file.png",
+        "small": "/api/v2/locations/impression/image/56f169db1fa0425b5ea4d2f2/file.png"
+      },
+      "city": {
+        "title": "Konstanz",
+        "place_id": "95515474"
+      },
+      "create_date": "2016-03-22T15:50:54.012Z",
+      "modified_date": "2016-03-22T15:50:54.012Z"
+    }
+  },
+  {
+    "dis": 0.1893945493949935,
+    "obj": {
+      "_id": "56f1c50131f4b2525ec2fe55",
+      "user_id": "56e82bd502e5a70b4fccab88",
+      "title": "Café endlicht ",
+      "categories": [
+        "nightlife",
+        "holiday"
+      ],
+      "favorites": [
+        "56e82bd502e5a70b4fccab89"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.170921,
+          47.667171
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56f1c4fe1fa0425b5ea4d307/file.png",
+        "large": "/api/v2/locations/impression/image/56f1c4fe1fa0425b5ea4d308/file.png",
+        "normal": "/api/v2/locations/impression/image/56f1c4fe1fa0425b5ea4d309/file.png",
+        "small": "/api/v2/locations/impression/image/56f1c4fe1fa0425b5ea4d30a/file.png"
+      },
+      "city": {
+        "title": "Konstanz",
+        "place_id": "58561086"
+      },
+      "create_date": "2016-03-22T22:19:45.280Z",
+      "modified_date": "2016-03-22T22:19:45.280Z"
+    }
+  },
+  {
+    "dis": 0.21596496379789737,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c64",
+      "preLocation": false,
+      "create_date": "2015-07-20T12:08:55.579Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66920224575076,9.166975021362305",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28fd/sonnenaufgang_am_rhein.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28ff/sonnenaufgang_am_rhein.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc2901/sonnenaufgang_am_rhein.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc2903/sonnenaufgang_am_rhein.jpeg"
+      },
+      "modified_date": "2015-07-20T13:45:39.230Z",
+      "tags": [
+        "Günstig",
+        "Natur",
+        "Schönheit",
+        "Must-Have"
+      ],
+      "title": "Sonnenaufgang am Rhein",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.166975021362305,
+          47.66920224575076
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab06",
+      "categories": [],
+      "favorites": [
+        "56e857586ef01db36eb26a20",
+        "56e82bd502e5a70b4fccab89",
+        "56e82bd502e5a70b4fccab8b"
+      ]
+    }
+  },
+  {
+    "dis": 0.3012559868738572,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c9f",
+      "preLocation": false,
+      "create_date": "2015-07-18T21:33:30.051Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66980913426943,9.173412322998047",
+        "xlarge": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2afc/seerhein_abhaengen.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2aff/seerhein_abhaengen.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2b01/seerhein_abhaengen.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2b03/seerhein_abhaengen.jpeg"
+      },
+      "modified_date": "2015-07-18T21:34:31.844Z",
+      "tags": [
+        "chillen",
+        "see",
+        "bier",
+        "cool",
+        "wasser",
+        "frauen"
+      ],
+      "title": "Seerhein abhängen",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.173412322998047,
+          47.66980913426943
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab11",
+      "categories": [],
+      "favorites": [
+        "56e857586ef01db36eb26a20",
+        "56e897046ef01db36eb26a37",
+        "56e82bd502e5a70b4fccab87",
+        "56e82bd502e5a70b4fccaa2f",
+        "56e82bd502e5a70b4fccab8b"
+      ]
+    }
+  },
+  {
+    "dis": 0.3122392971595753,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c9e",
+      "preLocation": false,
+      "create_date": "2015-07-18T20:54:01.626Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66972243634168,9.173626899719238",
+        "xlarge": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2af4/seerhein.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2af6/seerhein.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2af8/seerhein.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2afa/seerhein.jpeg"
+      },
+      "modified_date": "2015-07-18T21:17:14.175Z",
+      "tags": [
+        "Nachtbaden"
+      ],
+      "title": "Seerhein",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.173626899719238,
+          47.66972243634168
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa33",
+      "categories": [],
+      "favorites": [
+        "56e855bf6ef01db36eb26a1c",
+        "56e857586ef01db36eb26a20",
+        "56e82bd502e5a70b4fccab87",
+        "56e82bd502e5a70b4fccab8b"
+      ]
+    }
+  },
+  {
+    "dis": 0.319223933569953,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cc1",
+      "preLocation": false,
+      "create_date": "2015-08-24T16:45:31.983Z",
+      "modified_date": "2015-09-16T07:47:52.143Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.669151671389,9.173959493637085",
+        "xlarge": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c20/sonnenuntergang_am_herosee.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c23/sonnenuntergang_am_herosee.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c25/sonnenuntergang_am_herosee.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c27/sonnenuntergang_am_herosee.jpeg"
+      },
+      "tags": [
+        "Konstanz",
+        "Sommer",
+        "Sonne",
+        "Sonnenuntergang",
+        "Herosee",
+        "Entspannung"
+      ],
+      "title": "Sonnenuntergang am Herosee",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.173959493637085,
+          47.669151671389
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccaa09",
+      "categories": [],
+      "favorites": [
+        "56e855bf6ef01db36eb26a1c",
+        "56e857586ef01db36eb26a20",
+        "56e897046ef01db36eb26a37",
+        "56e82bd502e5a70b4fccab8b",
+        "56e82bd502e5a70b4fccab84"
+      ]
+    }
+  },
+  {
+    "dis": 0.3415006708526609,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c53",
+      "preLocation": false,
+      "create_date": "2015-08-17T19:40:01.280Z",
+      "modified_date": "2015-08-17T19:40:09.276Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.669287138319284,9.165282547473907",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc286a/bootshaus_marine-jugend_konstanz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc286c/bootshaus_marine-jugend_konstanz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc286e/bootshaus_marine-jugend_konstanz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2870/bootshaus_marine-jugend_konstanz.jpeg"
+      },
+      "tags": [
+        "Bootshaus",
+        "Rudern",
+        "Segeln",
+        "Surfboating",
+        "Spaß",
+        "Funsport",
+        "Incentive",
+        "Teambuilding"
+      ],
+      "title": "Bootshaus Marine-Jugend Konstanz",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.165282547473907,
+          47.669287138319284
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fcca9d0",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.3468096624508454,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c77",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:21:21.228Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.665686,9.17104100000006",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29ba/stadtkind.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29bf/stadtkind.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29c2/stadtkind.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29c4/stadtkind.jpeg"
+      },
+      "modified_date": "2015-07-20T23:22:13.458Z",
+      "tags": [
+        "Kaffee",
+        "Paradies",
+        "sweets",
+        "snacks",
+        "trendy",
+        "Wohnaccessoires"
+      ],
+      "title": "Stadtkind",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17104100000006,
+          47.665686
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2e",
+      "categories": [],
+      "favorites": [
+        "56e857586ef01db36eb26a20",
+        "56e865dd6ef01db36eb26a26",
+        "56e86d1a6ef01db36eb26a27",
+        "56e899bf6ef01db36eb26a38",
+        "56e93bb66ef01db36eb26a4b",
+        "56e82bd502e5a70b4fccab87"
+      ]
+    }
+  },
+  {
+    "dis": 0.35695675764829765,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c80",
+      "title": "Holly's",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "terrasse",
+        "eis",
+        "international"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.166937470436096,
+          47.671272140078834
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.671272140078834,9.166937470436096",
+        "xlarge": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a18/hollys.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a1a/hollys.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a1c/hollys.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a1e/hollys.jpeg"
+      },
+      "create_date": "2015-07-18T14:38:58.763Z",
+      "modified_date": "2015-07-18T14:52:52.722Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab88",
+        "56e857586ef01db36eb26a20",
+        "56e8543b6ef01db36eb26a19",
+        "56e82bd502e5a70b4fccab87",
+        "56e82bd502e5a70b4fccab66",
+        "56e86f8e6ef01db36eb26a29"
+      ]
+    }
+  },
+  {
+    "dis": 0.3580234355100497,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca0",
+      "preLocation": false,
+      "create_date": "2015-07-18T21:34:34.702Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66885544914306,9.174528121948242",
+        "xlarge": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2b05/grillen_und_trinken_am_seerhei.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2b08/grillen_und_trinken_am_seerhei.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2b0a/grillen_und_trinken_am_seerhei.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b0c/grillen_und_trinken_am_seerhei.jpeg"
+      },
+      "modified_date": "2015-07-18T21:35:53.504Z",
+      "tags": [
+        "Grillen",
+        "trinken",
+        "entspannen",
+        "seerhein"
+      ],
+      "title": "Grillen und trinken am Seerhei",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.174528121948242,
+          47.66885544914306
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaad7",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.35851036501549577,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cbe",
+      "preLocation": false,
+      "create_date": "2015-07-18T02:29:55.687Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66975133566693,9.174270629882812",
+        "xlarge": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c0e/herose-park.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c11/herose-park.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c13/herose-park.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c15/herose-park.jpeg"
+      },
+      "modified_date": "2015-09-26T18:40:56.711Z",
+      "tags": [
+        "Biers",
+        "Bikinis",
+        "Romantik",
+        "Wasser",
+        "Baden"
+      ],
+      "title": "Herose-Park",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.174270629882812,
+          47.66975133566693
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "category": {
+        "main": {
+          "nature": {
+            "query_name": "nature",
+            "title": "Natur"
+          },
+          "query_name": "sportLeisure",
+          "title": "Sport & Freizeit"
+        },
+        "sub": {}
+      },
+      "user_id": "56e82bd502e5a70b4fccab89",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab87",
+        "56e82bd502e5a70b4fccab8c",
+        "56e9fdb9cc75d02364a23285",
+        "56e82bd502e5a70b4fccab89",
+        "56e82bd502e5a70b4fccab8b"
+      ]
+    }
+  },
+  {
+    "dis": 0.4009983544370206,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c84",
+      "title": "Suppas Diner",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "Pizza",
+        "burger",
+        "Nudeln",
+        "günstig"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.166200099999969,
+          47.6659843
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-18T14:45:29.528Z",
+      "modified_date": "2015-07-18T14:47:21.170Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab67"
+      ]
+    }
+  },
+  {
+    "dis": 0.4922542196154888,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c8e",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:01:59.570Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66923114536407,9.163230657577515",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a66/schaenzle-bruecke.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a69/schaenzle-bruecke.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a6b/schaenzle-bruecke.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a6d/schaenzle-bruecke.jpeg"
+      },
+      "modified_date": "2015-09-11T21:54:27.988Z",
+      "tags": [
+        "Konstanz",
+        "Rhein",
+        "Graffiti"
+      ],
+      "title": "Schänzle-Brücke",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.163230657577515,
+          47.66923114536407
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab8c",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.5557809134724299,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c90",
+      "title": "Petershof",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "regional",
+        "international",
+        "veranstaltungsraum",
+        "hotel",
+        "kinderecke"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17625529999998,
+          47.6710934
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-18T15:05:28.802Z",
+      "modified_date": "2015-07-18T15:05:55.813Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.5645947579089037,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c7f",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:38:27.391Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.664921,9.17481900000007",
+        "xlarge": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a0c/maharani_restaurant.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a11/maharani_restaurant.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a14/maharani_restaurant.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a16/maharani_restaurant.jpeg"
+      },
+      "modified_date": "2015-07-31T04:27:13.425Z",
+      "tags": [
+        "indisch",
+        "scharf",
+        "curry",
+        "exotisch",
+        "lecker",
+        "günstig",
+        "freundlich",
+        "Bombay-Chicken",
+        "super"
+      ],
+      "title": "Maharani Restaurant",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17481900000007,
+          47.664921
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.594227764117623,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c94",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:16:57.797Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66764999999999,9.177540000000022",
+        "xlarge": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a8b/constanzer_wirtshaus.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a90/constanzer_wirtshaus.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a93/constanzer_wirtshaus.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a95/constanzer_wirtshaus.jpeg"
+      },
+      "modified_date": "2015-07-18T15:23:07.515Z",
+      "tags": [
+        "Brauerei",
+        "Essen",
+        "wasser",
+        "bier",
+        "lecker"
+      ],
+      "title": "Constanzer Wirtshaus",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.177540000000022,
+          47.66764999999999
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2d",
+      "categories": [],
+      "favorites": [
+        "56e839327ec0dee05c76cd45",
+        "56e82bd502e5a70b4fccab87",
+        "56e8543b6ef01db36eb26a19"
+      ]
+    }
+  },
+  {
+    "dis": 0.6165096092002524,
+    "obj": {
+      "_id": "56efeab831f4b2525ec2fd27",
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "title": "No11 Café Bar",
+      "categories": [
+        "gastro"
+      ],
+      "favorites": [],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.174598,
+          47.664199
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56efeab61fa0425b5ea4d2d5/file.png",
+        "large": "/api/v2/locations/impression/image/56efeab61fa0425b5ea4d2d6/file.png",
+        "normal": "/api/v2/locations/impression/image/56efeab61fa0425b5ea4d2d7/file.png",
+        "small": "/api/v2/locations/impression/image/56efeab61fa0425b5ea4d2d8/file.png"
+      },
+      "city": {
+        "title": "Konstanz",
+        "place_id": "93349868"
+      },
+      "create_date": "2016-03-21T12:36:08.435Z",
+      "modified_date": "2016-03-21T12:36:08.435Z"
+    }
+  },
+  {
+    "dis": 0.6612101549712481,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c85",
+      "title": "Dom",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "cafe",
+        "burger",
+        "bar",
+        "lavasteingrill",
+        "cocktail",
+        "fußball"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.175690000000031,
+          47.66428
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66428,9.175690000000031",
+        "xlarge": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a30/dom.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a34/dom.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a36/dom.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a38/dom.jpeg"
+      },
+      "create_date": "2015-07-18T14:48:44.253Z",
+      "modified_date": "2015-07-18T14:52:20.092Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccaa2f"
+      ]
+    }
+  },
+  {
+    "dis": 0.6683276544958915,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c8a",
+      "title": "Münsterhof",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "gutbürgerlich",
+        "regional",
+        "mittagstisch",
+        "günstig"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17479000000003,
+          47.66372
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-18T14:57:15.109Z",
+      "modified_date": "2015-07-18T15:06:00.166Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccaa2f"
+      ]
+    }
+  },
+  {
+    "dis": 0.7291808537809996,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cac",
+      "preLocation": false,
+      "create_date": "2015-07-19T18:44:15.228Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66566011572497,9.178395867347717",
+        "xlarge": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b6a/unter_der_bruecke.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b6d/unter_der_bruecke.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b6f/unter_der_bruecke.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b71/unter_der_bruecke.jpeg"
+      },
+      "modified_date": "2015-09-19T11:33:15.065Z",
+      "tags": [
+        "Aussicht",
+        "Picknick",
+        "See",
+        "Seestraße"
+      ],
+      "title": "Unter der Brücke",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.178395867347717,
+          47.66566011572497
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaad9",
+      "categories": [],
+      "favorites": [
+        "56e8543b6ef01db36eb26a19",
+        "56e82bd502e5a70b4fccab8b"
+      ]
+    }
+  },
+  {
+    "dis": 0.7325644850312758,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c9a",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:34:52.238Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.662666,9.173741000000064",
+        "xlarge": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ace/zeitlos.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ad3/zeitlos.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ad6/zeitlos.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ad8/zeitlos.jpeg"
+      },
+      "modified_date": "2015-07-20T23:10:19.385Z",
+      "tags": [
+        "frühstücken",
+        "Essen",
+        "Kaffee",
+        "zeitlos",
+        "gemütlich",
+        "Sonntag"
+      ],
+      "title": "Zeitlos",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.173741000000064,
+          47.662666
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2e",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.7524192178303795,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb7",
+      "preLocation": false,
+      "create_date": "2015-07-29T23:44:11.371Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66237426363756,9.173390865325928",
+        "xlarge": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bcd/weinfest_konstanz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bd0/weinfest_konstanz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bd2/weinfest_konstanz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bd4/weinfest_konstanz.jpeg"
+      },
+      "modified_date": "2015-07-29T23:47:20.230Z",
+      "tags": [
+        "Wein",
+        "Musil",
+        "Essen",
+        "Party"
+      ],
+      "title": "Weinfest Konstanz",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.173390865325928,
+          47.66237426363756
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.7749951771554799,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c8d",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:00:15.593Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.663876,9.17724899999996",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a5b/stadttheater.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a5f/stadttheater.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a62/stadttheater.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a64/stadttheater.jpeg"
+      },
+      "modified_date": "2015-07-18T15:04:58.860Z",
+      "tags": [
+        "Theater",
+        "Kultur",
+        "Klassiker"
+      ],
+      "title": "Stadttheater",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17724899999996,
+          47.663876
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab85",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.8337488165160245,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c7c",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:35:35.192Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.662293,9.175581100000045",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29ec/tam_tam.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29f1/tam_tam.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29f4/tam_tam.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29f6/tam_tam.jpeg"
+      },
+      "modified_date": "2015-07-20T23:09:13.208Z",
+      "tags": [
+        "shopping",
+        "store",
+        "hip",
+        "schnickschnack",
+        "klamotten",
+        "taschen",
+        "bücher"
+      ],
+      "title": "Tam Tam",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.175581100000045,
+          47.662293
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2e",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.835413072275283,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c97",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:25:32.766Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66811570000001,9.180878600000028",
+        "xlarge": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2aad/destille.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2ab1/destille.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2ab4/destille.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2ab6/destille.jpeg"
+      },
+      "modified_date": "2015-07-18T15:27:43.721Z",
+      "tags": [
+        "Bar",
+        "gemütlich",
+        "Destille"
+      ],
+      "title": "Destille",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.180878600000028,
+          47.66811570000001
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2d",
+      "categories": [],
+      "favorites": [
+        "56e857586ef01db36eb26a20",
+        "56e82bd502e5a70b4fccab66",
+        "56e82bd502e5a70b4fccaa32"
+      ]
+    }
+  },
+  {
+    "dis": 0.8416914735215714,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb5",
+      "title": "Stromtankstelle Stadtwerke KN",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "Probefahrt",
+        "Elektroauto",
+        "Konstanz100%e",
+        "Seewelle",
+        "Ladestation",
+        "Elekrotankstelle"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.16371747847279,
+          47.67506763615658
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.67506763615658,9.16371747847279",
+        "xlarge": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bba/stromtankstelle_stadtwerke_kn.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bbe/stromtankstelle_stadtwerke_kn.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bc0/stromtankstelle_stadtwerke_kn.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bc2/stromtankstelle_stadtwerke_kn.jpeg"
+      },
+      "create_date": "2015-07-28T20:37:25.588Z",
+      "modified_date": "2015-07-28T20:39:00.466Z",
+      "delete": false,
+      "public": true,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccab70",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.8735340187574371,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2caa",
+      "title": "Dolce Vita Coffee Shop",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "Cafe",
+        "Espresso",
+        "Maschinen",
+        "Zubehör",
+        "Kaffeegenuss"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17581999999993,
+          47.661972
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-19T10:46:40.470Z",
+      "delete": false,
+      "public": true,
+      "preLocation": false,
+      "modified_date": "2015-07-19T10:47:12.809Z",
+      "user_id": "56e82bd502e5a70b4fccaa9b",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.8821251846924576,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c7e",
+      "title": "107",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "bar",
+        "alkohol",
+        "107",
+        "bier",
+        "rauchen",
+        "cafe"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.172763228416443,
+          47.66101217305385
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66101217305385,9.172763228416443",
+        "xlarge": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a00/107.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a05/107.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a08/107.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a0a/107.jpeg"
+      },
+      "create_date": "2015-07-18T14:38:01.088Z",
+      "modified_date": "2015-07-18T14:40:37.350Z",
+      "delete": false,
+      "public": true,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa2d",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.8894711361111557,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c87",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:49:24.765Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.661252,9.174154000000044",
+        "xlarge": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a3a/voglhaus.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a3f/voglhaus.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a42/voglhaus.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a44/voglhaus.jpeg"
+      },
+      "modified_date": "2015-07-20T23:21:15.011Z",
+      "tags": [
+        "Kaffee",
+        "Kuchen",
+        "Snacks",
+        "Wohnaccessoires",
+        "gemütlich"
+      ],
+      "title": "Voglhaus",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.174154000000044,
+          47.661252
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2e",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.8894711361111557,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c9b",
+      "preLocation": false,
+      "create_date": "2015-07-18T17:03:01.193Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.661252,9.174154000000044",
+        "xlarge": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ada/voglhaus.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2add/voglhaus.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2adf/voglhaus.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ae1/voglhaus.jpeg"
+      },
+      "modified_date": "2015-07-24T10:48:29.097Z",
+      "tags": [
+        "Kaffee",
+        "Essen",
+        "Kuchen",
+        "Deko",
+        "Lifestyle",
+        "geschmacksvoll",
+        "gemütlich"
+      ],
+      "title": "Voglhaus",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.174154000000044,
+          47.661252
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab88",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.8894866140608642,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c75",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:18:22.890Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.6609561712215,9.17283296585083",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29a4/bar_107.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29a8/bar_107.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29ab/bar_107.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29ad/bar_107.jpeg"
+      },
+      "modified_date": "2015-07-18T14:21:26.888Z",
+      "tags": [
+        "Cocktails",
+        "Bar",
+        "Rauchen"
+      ],
+      "title": "Bar 107",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17283296585083,
+          47.6609561712215
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab87"
+      ]
+    }
+  },
+  {
+    "dis": 0.9333544373001004,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca3",
+      "preLocation": false,
+      "create_date": "2015-12-22T20:32:20.851Z",
+      "modified_date": "2015-12-23T07:15:54.978Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.6754731,9.1770802",
+        "xlarge": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b18/bus_weichnachtsmarkt_konstanz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b1d/bus_weichnachtsmarkt_konstanz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b1f/bus_weichnachtsmarkt_konstanz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b21/bus_weichnachtsmarkt_konstanz.jpeg"
+      },
+      "tags": [
+        "baaaam",
+        "fett"
+      ],
+      "title": "bus weichnachtsmarkt Konstanz",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.1770802,
+          47.6754731
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.9670019662837372,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c78",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:21:49.885Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.660072779531326,9.17157769203186",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29c6/bierstube_an_der_laube.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29ca/bierstube_an_der_laube.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29cd/bierstube_an_der_laube.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29cf/bierstube_an_der_laube.jpeg"
+      },
+      "modified_date": "2015-07-18T14:25:08.643Z",
+      "tags": [
+        "Bundesliga",
+        "Haselnusschnaps",
+        "Bar",
+        "Kneipe",
+        "Bürgerlich",
+        "Günstig",
+        "Kurze",
+        "Fußball",
+        "Rauchen"
+      ],
+      "title": "Bierstube an der Laube",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17157769203186,
+          47.660072779531326
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.9723141979438636,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c71",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:07:59.095Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66271,9.179237999999941",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc297d/tretbootverleih_marc_fluck.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2982/tretbootverleih_marc_fluck.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2985/tretbootverleih_marc_fluck.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2987/tretbootverleih_marc_fluck.jpeg"
+      },
+      "modified_date": "2015-07-18T14:14:59.842Z",
+      "tags": [
+        "Bodensee",
+        "Tretboot",
+        "Spaß"
+      ],
+      "title": "Tretbootverleih Marc Fluck",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.179237999999941,
+          47.66271
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab86",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.9885954503342362,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c70",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:04:40.873Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.662278,9.178910999999971",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2970/spielplatz_stadtgarten.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2976/spielplatz_stadtgarten.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2979/spielplatz_stadtgarten.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc297b/spielplatz_stadtgarten.jpeg"
+      },
+      "modified_date": "2015-07-22T13:39:53.111Z",
+      "tags": [
+        "Spielspaß",
+        "Kinder",
+        "Familie"
+      ],
+      "title": "Spielplatz Stadtgarten",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.178910999999971,
+          47.662278
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab86",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 0.9963051788923722,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c72",
+      "title": "Eugens",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "bistro",
+        "bio",
+        "cafe",
+        "innenstadt",
+        "stadt",
+        "konstanz",
+        "restaurante"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.176499000000035,
+          47.660959
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.660959,9.176499000000035",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2989/eugens.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc298b/eugens.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc298d/eugens.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc298f/eugens.jpeg"
+      },
+      "create_date": "2015-07-18T14:11:28.005Z",
+      "modified_date": "2015-07-21T11:53:01.591Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccab8a",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab66"
+      ]
+    }
+  },
+  {
+    "dis": 1.0159575230376472,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c7d",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:36:54.506Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.674137,9.158868999999981",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29f8/kantine.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29fa/kantine.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29fc/kantine.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29fe/kantine.jpeg"
+      },
+      "modified_date": "2015-08-30T13:28:42.352Z",
+      "tags": [
+        "Club",
+        "Bar",
+        "Disco",
+        "Studenten",
+        "Cocktails",
+        "Musik",
+        "Party",
+        "feiern",
+        "Restaurant"
+      ],
+      "title": "Kantine",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.158868999999981,
+          47.674137
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.048975274749028,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c9d",
+      "preLocation": false,
+      "create_date": "2015-07-18T17:23:45.149Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.660521,9.176780000000008",
+        "xlarge": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2aec/pano.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2aee/pano.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2af0/pano.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2af2/pano.jpeg"
+      },
+      "modified_date": "2015-07-18T17:25:53.542Z",
+      "tags": [
+        "super",
+        "lecker",
+        "eis",
+        "kaffee",
+        "viellos",
+        "cofetogo",
+        "marktstädte"
+      ],
+      "title": "Pano",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.176780000000008,
+          47.660521
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab88",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.0503149895465627,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cc0",
+      "title": "Stadtgarten",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "Gemütlich",
+        "entspannt",
+        "Sommer",
+        "See"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.179227352142334,
+          47.66171670710313
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-21T10:34:02.088Z",
+      "modified_date": "2015-07-21T11:51:05.800Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa82",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.0971925350834746,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c9c",
+      "preLocation": false,
+      "create_date": "2015-07-18T17:12:54.435Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66119279999999,9.17929330000004",
+        "xlarge": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ae3/hafen_konstanz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ae6/hafen_konstanz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ae8/hafen_konstanz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2aea/hafen_konstanz.jpeg"
+      },
+      "modified_date": "2015-07-18T17:16:45.367Z",
+      "tags": [
+        "touristen",
+        "bodensee",
+        "bote",
+        "Wasser",
+        "Eis",
+        "Seepromenade",
+        "Sonnenuntergang",
+        "Katamaran",
+        "Tretbot"
+      ],
+      "title": "Hafen Konstanz",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17929330000004,
+          47.66119279999999
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab88",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab89"
+      ]
+    }
+  },
+  {
+    "dis": 1.1306105084923124,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c79",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:26:19.034Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.658571,9.171346999999969",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29d1/klimperkasten.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29d5/klimperkasten.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29d8/klimperkasten.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29da/klimperkasten.jpeg"
+      },
+      "modified_date": "2015-09-12T22:39:06.067Z",
+      "tags": [
+        "Bar",
+        "Cocktails",
+        "Livebands",
+        "Musik",
+        "Studenten",
+        "Kneipe",
+        "rauchen"
+      ],
+      "title": "Klimperkasten",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.171346999999969,
+          47.658571
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "categories": [],
+      "favorites": [
+        "56e86d1a6ef01db36eb26a27",
+        "56e855bf6ef01db36eb26a1c",
+        "56e86f8e6ef01db36eb26a29",
+        "56e82bd502e5a70b4fccab66"
+      ]
+    }
+  },
+  {
+    "dis": 1.1355781637270517,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c82",
+      "title": "Rigg's Burgers",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "american",
+        "burger",
+        "diner"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.172260000000051,
+          47.65861
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-18T14:40:50.622Z",
+      "modified_date": "2015-07-18T14:47:23.981Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.1724240540430595,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c83",
+      "title": "Ignaz",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "burger",
+        "fußball",
+        "bar",
+        "cockteils"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.176923999999985,
+          47.659309
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.659309,9.176923999999985",
+        "xlarge": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a28/ignaz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a2a/ignaz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a2c/ignaz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a2e/ignaz.jpeg"
+      },
+      "create_date": "2015-07-18T14:43:08.308Z",
+      "modified_date": "2015-07-18T14:54:20.214Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.18648000239297,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c5e",
+      "preLocation": false,
+      "create_date": "2015-07-24T21:19:56.222Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.67024262174783,9.154078960418701",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28cd/bleiche_grillplatz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28d0/bleiche_grillplatz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28d2/bleiche_grillplatz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28d4/bleiche_grillplatz.jpeg"
+      },
+      "modified_date": "2015-07-24T21:24:45.723Z",
+      "tags": [
+        "grillen",
+        "baden",
+        "seerhein"
+      ],
+      "title": "Bleiche Grillplatz",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.154078960418701,
+          47.67024262174783
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.1868866620647256,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c6f",
+      "preLocation": false,
+      "create_date": "2015-07-18T13:58:56.556Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.6667548,9.185343399999965",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2966/seestrasse.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc296a/seestrasse.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc296c/seestrasse.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc296e/seestrasse.jpeg"
+      },
+      "modified_date": "2015-07-18T14:03:19.866Z",
+      "tags": [
+        "Joggen",
+        "entspannen",
+        "Seeblick"
+      ],
+      "title": "Seestraße",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.185343399999965,
+          47.6667548
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab86",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.1895331689340827,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c8c",
+      "title": "Cantina Rabajà",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "italienisch",
+        "regional",
+        "fusion"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.171050000000037,
+          47.65802
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-18T14:59:53.215Z",
+      "modified_date": "2015-07-18T15:05:56.688Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.1936545253541087,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb6",
+      "preLocation": false,
+      "create_date": "2015-07-29T19:18:35.213Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.65812968179975,9.172679781822808",
+        "xlarge": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bc4/riggs_burger-restaurant.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bc7/riggs_burger-restaurant.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bc9/riggs_burger-restaurant.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bcb/riggs_burger-restaurant.jpeg"
+      },
+      "modified_date": "2015-09-15T04:37:43.134Z",
+      "tags": [
+        "Burger",
+        "Pommes",
+        "Cocktails",
+        "SpareRips",
+        "Mais",
+        "Smoker-Fleisch",
+        "Günstig"
+      ],
+      "title": "RIGG'S Burger-Restaurant",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.172679781822808,
+          47.65812968179975
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab67"
+      ]
+    }
+  },
+  {
+    "dis": 1.203549921425781,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c5a",
+      "preLocation": false,
+      "create_date": "2015-07-24T12:22:31.976Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.670098126321754,9.153818786144257",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28a8/grillplatz_hinter_der_bleiche.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28ab/grillplatz_hinter_der_bleiche.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28ad/grillplatz_hinter_der_bleiche.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28af/grillplatz_hinter_der_bleiche.jpeg"
+      },
+      "modified_date": "2015-09-11T21:59:01.158Z",
+      "tags": [
+        "Grillen",
+        "Baden",
+        "Frisbee",
+        "Fußball"
+      ],
+      "title": "Grillplatz hinter der Bleiche",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.153818786144257,
+          47.670098126321754
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab8c",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab88",
+        "56e82bd502e5a70b4fccab66"
+      ]
+    }
+  },
+  {
+    "dis": 1.2218217622697032,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c74",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:16:47.768Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.659211,9.178026000000045",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2999/hafenhalle.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc299d/hafenhalle.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29a0/hafenhalle.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29a2/hafenhalle.jpeg"
+      },
+      "modified_date": "2015-07-18T14:21:01.364Z",
+      "tags": [
+        "Restaurant",
+        "Biergarten",
+        "schön",
+        "lecker"
+      ],
+      "title": "Hafenhalle",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.178026000000045,
+          47.659211
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab86",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.231131043317067,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c88",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:49:59.801Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.6788,9.16307699999993",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a46/zebra_kino.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a49/zebra_kino.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a4b/zebra_kino.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a4d/zebra_kino.jpeg"
+      },
+      "modified_date": "2015-07-18T14:54:27.789Z",
+      "tags": [
+        "Kino",
+        "alternativ"
+      ],
+      "title": "Zebra Kino",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.16307699999993,
+          47.6788
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab85",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.2336591445873295,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c86",
+      "title": "Kula (Kulturladen)",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "Billiard",
+        "kula",
+        "bar",
+        "dart",
+        "burger",
+        "rauchen"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.163531064987183,
+          47.678954956561384
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-18T14:49:09.316Z",
+      "modified_date": "2015-07-18T14:57:03.115Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2d",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.242212367208865,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c89",
+      "title": "Kontrast",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "live",
+        "konzerte",
+        "kicker",
+        "kontrast"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.163638353347778,
+          47.67906692154598
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-18T14:53:50.429Z",
+      "modified_date": "2016-01-14T21:47:45.943Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2d",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.2453718908056384,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c81",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:40:35.044Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.65765918328691,9.172698855400085",
+        "xlarge": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a20/logans_pub.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a22/logans_pub.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a24/logans_pub.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bde12daae1a4fdc2a26/logans_pub.jpeg"
+      },
+      "modified_date": "2015-07-18T14:44:59.280Z",
+      "tags": [
+        "Pub",
+        "Kneipe",
+        "Burger",
+        "Restaurant",
+        "Bier",
+        "Fußball",
+        "Bundesliga",
+        "Livebands",
+        "Whisky"
+      ],
+      "title": "Logan's Pub",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.172698855400085,
+          47.65765918328691
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "categories": [],
+      "favorites": [
+        "56e93e976ef01db36eb26a4d"
+      ]
+    }
+  },
+  {
+    "dis": 1.2709197389316882,
+    "obj": {
+      "_id": "56eb0c420de4133d7318fbaa",
+      "user_id": "56e82bd502e5a70b4fccab67",
+      "title": "Sino's Hause",
+      "categories": [
+        "secret",
+        "gastro"
+      ],
+      "favorites": [],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.171839,
+          47.657339
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56eb0c40e0b408467333ee0d/file.png",
+        "large": "/api/v2/locations/impression/image/56eb0c40e0b408467333ee0e/file.png",
+        "normal": "/api/v2/locations/impression/image/56eb0c40e0b408467333ee0f/file.png",
+        "small": "/api/v2/locations/impression/image/56eb0c40e0b408467333ee10/file.png"
+      },
+      "city": {
+        "title": "Konstanz",
+        "place_id": "98572961"
+      },
+      "create_date": "2016-03-17T19:57:54.411Z",
+      "modified_date": "2016-03-17T19:57:54.411Z"
+    }
+  },
+  {
+    "dis": 1.286112170574583,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c51",
+      "preLocation": false,
+      "create_date": "2015-07-31T04:15:18.005Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.65766550647673,9.174985438585281",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2858/i_love_leo_-_frozen_yogurt.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc285b/i_love_leo_-_frozen_yogurt.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc285d/i_love_leo_-_frozen_yogurt.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc285f/i_love_leo_-_frozen_yogurt.jpeg"
+      },
+      "modified_date": "2015-07-31T04:29:20.155Z",
+      "tags": [
+        "Frozen",
+        "Yogurt",
+        "Eis",
+        "lecker",
+        "trend",
+        "gesund"
+      ],
+      "title": "I love Leo - Frozen Yogurt",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.174985438585281,
+          47.65766550647673
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.3038391364204622,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c8b",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:58:50.464Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.657456,9.17478200000005",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a4f/tolle_knolle.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a54/tolle_knolle.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a57/tolle_knolle.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a59/tolle_knolle.jpeg"
+      },
+      "modified_date": "2016-03-06T15:46:16.376Z",
+      "tags": [
+        "essen",
+        "kartoffel",
+        "alles-mit-kartoffeln"
+      ],
+      "title": "Tolle Knolle",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17478200000005,
+          47.657456
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab8b",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.3085800089227375,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c99",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:31:26.868Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.65828788527071,9.17794793844223",
+        "xlarge": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ac4/junges_theater.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ac8/junges_theater.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2aca/junges_theater.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2acc/junges_theater.jpeg"
+      },
+      "modified_date": "2015-07-18T15:39:33.803Z",
+      "tags": [
+        "Theater",
+        "Kultur"
+      ],
+      "title": "Junges Theater",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.17794793844223,
+          47.65828788527071
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab85",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.3602101152821788,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c5d",
+      "title": "Eumel",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "türkisch",
+        "Restaurant",
+        "börek",
+        "salat",
+        "Kebab",
+        "essen",
+        "gaumenschmauß",
+        "Türkei",
+        "Hüetlinstraße",
+        "hunger"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.173716000000013,
+          47.656744
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.656744,9.173716000000013",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28c4/eumel.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28c7/eumel.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28c9/eumel.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28cb/eumel.jpeg"
+      },
+      "create_date": "2015-07-20T07:12:54.056Z",
+      "modified_date": "2015-07-22T11:05:54.012Z",
+      "delete": false,
+      "public": true,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaac0",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.3656301729627094,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cbf",
+      "preLocation": false,
+      "create_date": "2015-07-20T20:46:23.882Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.68070418999999,9.173481779999998",
+        "xlarge": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c17/bolzplatz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c1a/bolzplatz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c1c/bolzplatz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c1e/bolzplatz.jpeg"
+      },
+      "modified_date": "2015-07-23T20:22:17.102Z",
+      "tags": [
+        "Fußball"
+      ],
+      "title": "Bolzplatz",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.173481779999998,
+          47.68070418999999
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.4250964910568056,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c76",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:19:53.374Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.65605487495388,9.173009991645813",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29af/coban_s_doener.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29b3/coban_s_doener.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29b6/coban_s_doener.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc29b8/coban_s_doener.jpeg"
+      },
+      "modified_date": "2015-07-18T14:28:15.779Z",
+      "tags": [
+        "lecker",
+        "freundlich",
+        "essen",
+        "döner",
+        "imbiss",
+        "cobans"
+      ],
+      "title": "Coban´s Döner",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.173009991645813,
+          47.65605487495388
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2d",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.469119771838482,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca8",
+      "preLocation": false,
+      "create_date": "2015-07-18T23:18:18.695Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.679733,9.180508000000032",
+        "xlarge": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b4c/bismarckturm.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b52/bismarckturm.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b55/bismarckturm.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b57/bismarckturm.jpeg"
+      },
+      "modified_date": "2015-11-16T15:52:32.734Z",
+      "tags": [
+        "Aussicht",
+        "Turm"
+      ],
+      "title": "Bismarckturm",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.180508000000032,
+          47.679733
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab10",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab8b"
+      ]
+    }
+  },
+  {
+    "dis": 1.469119771838482,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cab",
+      "title": "Bismarckturm",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "grillen",
+        "Aussicht",
+        "konstanzvonoben"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.180508000000032,
+          47.679733
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.679733,9.180508000000032",
+        "xlarge": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b62/bismarckturm.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b64/bismarckturm.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b66/bismarckturm.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b68/bismarckturm.jpeg"
+      },
+      "create_date": "2015-07-19T15:34:18.399Z",
+      "modified_date": "2015-07-19T15:45:04.773Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa32",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.469119771838482,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c95",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:17:38.643Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.679733,9.180508000000032",
+        "xlarge": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a97/bismarckturm.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a99/bismarckturm.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a9b/bismarckturm.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a9d/bismarckturm.jpeg"
+      },
+      "modified_date": "2016-03-06T15:46:22.543Z",
+      "tags": [
+        "View",
+        "spot",
+        "parkour",
+        "freerunning"
+      ],
+      "title": "Bismarckturm",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.180508000000032,
+          47.679733
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa30",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.469119771838482,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c73",
+      "title": "Bismarckturm",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "aussicht",
+        "turm",
+        "grillen",
+        "natur",
+        "schön",
+        "chillen"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.180508000000032,
+          47.679733
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.679733,9.180508000000032",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2991/bismarckturm.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2993/bismarckturm.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2995/bismarckturm.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdc12daae1a4fdc2997/bismarckturm.jpeg"
+      },
+      "create_date": "2015-07-18T14:15:27.373Z",
+      "modified_date": "2015-08-26T20:08:12.347Z",
+      "delete": false,
+      "public": true,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccab8a",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.583813823949893,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cc4",
+      "preLocation": false,
+      "create_date": "2015-09-19T09:45:49.545Z",
+      "modified_date": "2015-09-25T22:49:15.485Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.656463183327496,9.180622100830078",
+        "xlarge": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c3b/paulaner_festzelt_auf_dem_oktoberfest.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c3e/paulaner_festzelt_auf_dem_oktoberfest.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c40/paulaner_festzelt_auf_dem_oktoberfest.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c42/paulaner_festzelt_auf_dem_oktoberfest.jpeg"
+      },
+      "tags": [
+        "Oktoberfest",
+        "Paulaner",
+        "Bier",
+        "Dirndl",
+        "Lederhosen"
+      ],
+      "title": "Paulaner Festzelt auf dem Oktoberfest",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.180622100830078,
+          47.656463183327496
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.5901190856330603,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c4e",
+      "preLocation": false,
+      "create_date": "2016-02-25T17:35:56.109Z",
+      "modified_date": "2016-02-26T12:47:40.464Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.676395949397644,9.187636077404022",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc2839/sonnenhalde_basketball.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc283d/sonnenhalde_basketball.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc283f/sonnenhalde_basketball.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2841/sonnenhalde_basketball.jpeg"
+      },
+      "tags": [
+        "Basketball"
+      ],
+      "title": "Sonnenhalde Basketball",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.187636077404022,
+          47.676395949397644
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab1b",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.5994624044461108,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c98",
+      "title": "Stangengerüst Kreuzlingen",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "Training",
+        "Stangen",
+        "Calesthetics"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.177639484405518,
+          47.65531413037351
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.65531413037351,9.177639484405518",
+        "xlarge": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2ab8/stangengeruest_kreuzlingen.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2abd/stangengeruest_kreuzlingen.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2ac0/stangengeruest_kreuzlingen.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be112daae1a4fdc2ac2/stangengeruest_kreuzlingen.jpeg"
+      },
+      "create_date": "2015-07-18T15:30:41.434Z",
+      "modified_date": "2015-07-18T15:32:09.819Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa30",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.895392413961592,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c7b",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:33:28.851Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.6785,9.149059999999963",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29e4/die_blechnerei.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29e6/die_blechnerei.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29e8/die_blechnerei.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29ea/die_blechnerei.jpeg"
+      },
+      "modified_date": "2015-07-19T11:20:55.298Z",
+      "tags": [
+        "Disco",
+        "Saufen",
+        "Musik",
+        "Electro",
+        "Party",
+        "Vollgas"
+      ],
+      "title": "Die Blechnerei",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.149059999999963,
+          47.6785
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 1.9593532888158993,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c8f",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:02:00.684Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.65285695115987,9.181260466575623",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a6f/kreuzlinger-park.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a73/kreuzlinger-park.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a76/kreuzlinger-park.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a78/kreuzlinger-park.jpeg"
+      },
+      "modified_date": "2015-07-20T23:18:27.036Z",
+      "tags": [
+        "Natur",
+        "Bodensee",
+        "Ausblick",
+        "abschalten",
+        "Kreuzlingen"
+      ],
+      "title": "Kreuzlinger-Park",
+      "city": {
+        "title": "Kreuzlingen, Schweiz",
+        "place_id": "ChIJbaYMOi73mkcR8ta5PmLku_I",
+        "id": "ChIJbaYMOi73mkcR8ta5PmLku_I"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.181260466575623,
+          47.65285695115987
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2e",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 2.280902876411822,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c6e",
+      "preLocation": false,
+      "create_date": "2015-07-18T13:45:45.909Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66492492654025,9.199697971343994",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc295b/schmugglerbucht.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc295f/schmugglerbucht.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2962/schmugglerbucht.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2964/schmugglerbucht.jpeg"
+      },
+      "modified_date": "2015-08-31T15:18:34.019Z",
+      "tags": [
+        "baden",
+        "grillen",
+        "bucht",
+        "see",
+        "bodensee",
+        "natur",
+        "steinstrand",
+        "schönhier"
+      ],
+      "title": "Schmugglerbucht",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.199697971343994,
+          47.66492492654025
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab8a",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 2.365245599111626,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca9",
+      "preLocation": false,
+      "create_date": "2015-07-19T07:05:04.796Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66489602454259,9.200835227966309",
+        "xlarge": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b59/schmugglerbucht.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b5c/schmugglerbucht.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b5e/schmugglerbucht.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b60/schmugglerbucht.jpeg"
+      },
+      "modified_date": "2016-03-06T15:46:11.362Z",
+      "tags": [
+        "Baden",
+        "Picknick",
+        "Feiern"
+      ],
+      "title": "Schmugglerbucht",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.200835227966309,
+          47.66489602454259
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaaa1",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 2.583446225133884,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c91",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:07:47.139Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.688791,9.18703800000003",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a7a/uni_konstanz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a7d/uni_konstanz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a7f/uni_konstanz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdf12daae1a4fdc2a81/uni_konstanz.jpeg"
+      },
+      "modified_date": "2015-09-29T08:24:01.321Z",
+      "tags": [
+        "parkour",
+        "freerunning",
+        "training",
+        "spot"
+      ],
+      "title": "Uni Konstanz",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.18703800000003,
+          47.688791
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa30",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 2.9715518592567216,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c7a",
+      "preLocation": false,
+      "create_date": "2015-07-18T14:28:04.175Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.664559,9.208961000000045",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29dc/bodensee-therme_konstanz.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29de/bodensee-therme_konstanz.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29e0/bodensee-therme_konstanz.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdd12daae1a4fdc29e2/bodensee-therme_konstanz.jpeg"
+      },
+      "modified_date": "2015-07-23T22:33:07.821Z",
+      "tags": [
+        "Baden",
+        "Sauna",
+        "Seesicht",
+        "Thermalbad",
+        "Wellness",
+        "Freibad",
+        "Quellwasser"
+      ],
+      "title": "Bodensee-Therme Konstanz",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.208961000000045,
+          47.664559
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 3.2800063740630527,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c54",
+      "preLocation": false,
+      "create_date": "2015-08-05T21:44:59.481Z",
+      "modified_date": "2015-09-12T22:41:12.032Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.671109585903075,9.213409423828125",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2872/am_wasserwerk.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2875/am_wasserwerk.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2877/am_wasserwerk.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2879/am_wasserwerk.jpeg"
+      },
+      "tags": [
+        "Baden",
+        "grillen"
+      ],
+      "title": "Am Wasserwerk",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.213409423828125,
+          47.671109585903075
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccaa86",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 3.4157282437596206,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca4",
+      "preLocation": false,
+      "create_date": "2015-08-14T16:29:35.797Z",
+      "modified_date": "2015-09-08T11:13:23.071Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66924559516471,9.215362071990967",
+        "xlarge": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b23/staad_-_zwischen_hoernle_und_wasserwerk.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b27/staad_-_zwischen_hoernle_und_wasserwerk.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b29/staad_-_zwischen_hoernle_und_wasserwerk.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b2b/staad_-_zwischen_hoernle_und_wasserwerk.jpeg"
+      },
+      "tags": [
+        "baden",
+        "grillen",
+        "lagerfeuer",
+        "wandern",
+        "spazieren",
+        "aussicht"
+      ],
+      "title": "Staad - Zwischen Hörnle & Wasserwerk",
+      "city": {
+        "title": "Konstanz, Germany",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.215362071990967,
+          47.66924559516471
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 3.607891071312963,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c96",
+      "preLocation": false,
+      "create_date": "2015-07-18T15:18:11.266Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.66596538779848,9.21776533126831",
+        "xlarge": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a9f/hoernle.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2aa6/hoernle.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2aa9/hoernle.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2aab/hoernle.jpeg"
+      },
+      "modified_date": "2015-07-18T15:27:13.366Z",
+      "tags": [
+        "baden",
+        "Bodensee",
+        "schöne-Aussicht",
+        "Kiosk",
+        "Sport",
+        "sonnen"
+      ],
+      "title": "Hörnle",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.21776533126831,
+          47.66596538779848
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2e",
+      "categories": [],
+      "favorites": [
+        "56e865dd6ef01db36eb26a26"
+      ]
+    }
+  },
+  {
+    "dis": 3.6677123702513796,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c93",
+      "title": "Staader Fährhaus",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "nobel",
+        "regional",
+        "mittelteuer"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.216885566711426,
+          47.6776691479019
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.6776691479019,9.216885566711426",
+        "xlarge": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a83/staader_faehrhaus.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a85/staader_faehrhaus.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a87/staader_faehrhaus.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be012daae1a4fdc2a89/staader_faehrhaus.jpeg"
+      },
+      "create_date": "2015-07-18T15:11:48.950Z",
+      "modified_date": "2015-07-18T15:20:55.800Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccaa2f"
+      ]
+    }
+  },
+  {
+    "dis": 8.059677894520673,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c6d",
+      "preLocation": false,
+      "create_date": "2015-07-18T13:39:04.720Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.691016,9.067334999999957",
+        "xlarge": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2950/reichenau__hochwart_.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2954/reichenau__hochwart_.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2957/reichenau__hochwart_.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2959/reichenau__hochwart_.jpeg"
+      },
+      "modified_date": "2015-07-18T14:18:00.163Z",
+      "tags": [
+        "Reichenau",
+        "Insel",
+        "Welterbe",
+        "Kloster",
+        "Grünergehtsnicht",
+        "Natur",
+        "Bodensee",
+        "Wasser",
+        "Baden"
+      ],
+      "title": "Reichenau (Hochwart)",
+      "city": {
+        "title": "Reichenau, Deutschland",
+        "place_id": "ChIJ_1qgrnT1mkcRIJrfpbdrHwQ",
+        "id": "ChIJ_1qgrnT1mkcRIJrfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.067334999999957,
+          47.691016
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab8a",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 8.45969858221526,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c92",
+      "title": "Ziegelhofstüble",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "regional",
+        "bürgerlich"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.133219999999937,
+          47.74068
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-18T15:09:22.296Z",
+      "modified_date": "2015-07-18T15:09:37.568Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa2f",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 8.977346228665072,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c66",
+      "preLocation": false,
+      "create_date": "2015-07-27T10:49:17.315Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.74705025959898,9.140914678573608",
+        "xlarge": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2905/strandbad_wallhausen.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2909/strandbad_wallhausen.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc290b/strandbad_wallhausen.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc290d/strandbad_wallhausen.jpeg"
+      },
+      "modified_date": "2015-07-27T10:54:30.145Z",
+      "tags": [
+        "Bodensee",
+        "Volleyball",
+        "Fussball",
+        "Restaurant",
+        "Minigolf",
+        "Platz",
+        "Kostenlos"
+      ],
+      "title": "Strandbad Wallhausen",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.140914678573608,
+          47.74705025959898
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 9.053010871843457,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c6a",
+      "title": "Burghof Wallhausen",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "tags": [
+        "Burg",
+        "Aussicht",
+        "See",
+        "Kaffee",
+        "Grillen",
+        "historisch",
+        "Biergarten",
+        "Kultur"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.132102000000032,
+          47.746055
+        ]
+      },
+      "public": true,
+      "delete": false,
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.746055,9.132102000000032",
+        "xlarge": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2933/burghof_wallhausen.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2935/burghof_wallhausen.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2937/burghof_wallhausen.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2939/burghof_wallhausen.jpeg"
+      },
+      "create_date": "2015-08-11T08:12:04.808Z",
+      "modified_date": "2015-08-11T08:19:44.236Z",
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fcca9f8",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 10.830249123783952,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c6c",
+      "preLocation": false,
+      "create_date": "2015-07-18T13:28:23.737Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.75885,9.115018999999961",
+        "xlarge": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2944/marienschlucht.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc2949/marienschlucht.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc294c/marienschlucht.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bdb12daae1a4fdc294e/marienschlucht.jpeg"
+      },
+      "modified_date": "2015-07-18T13:38:11.966Z",
+      "tags": [
+        "marienschlucht",
+        "schlucht",
+        "natur",
+        "grünergehtsnicht",
+        "baden",
+        "abgelegen"
+      ],
+      "title": "Marienschlucht",
+      "city": {
+        "title": "Konstanz, Deutschland",
+        "place_id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ",
+        "id": "ChIJWx8MOBv2mkcR0JnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.115018999999961,
+          47.75885
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab8a",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 12.279379224401007,
+    "obj": {
+      "_id": "56e97db05e36e3e50d9469f0",
+      "user_id": "56e96e2b6ef01db36eb26a53",
+      "title": "schön hier :) 🍻",
+      "categories": [
+        "nightlife"
+      ],
+      "favorites": [],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.106483,
+          47.566819
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e97dad4ab8d8aa6e8d6c8f/file.png",
+        "large": "/api/v2/locations/impression/image/56e97dad4ab8d8aa6e8d6c90/file.png",
+        "normal": "/api/v2/locations/impression/image/56e97dad4ab8d8aa6e8d6c91/file.png",
+        "small": "/api/v2/locations/impression/image/56e97dad4ab8d8aa6e8d6c92/file.png"
+      },
+      "city": {
+        "title": "Weinfelden",
+        "place_id": "732638"
+      },
+      "create_date": "2016-03-16T15:37:20.755Z",
+      "modified_date": "2016-03-16T15:37:20.755Z"
+    }
+  },
+  {
+    "dis": 12.449770383865301,
+    "obj": {
+      "_id": "56e9640c5e36e3e50d9469d5",
+      "user_id": "56e88ba26ef01db36eb26a32",
+      "title": "mit migro ice tea ish alles schön",
+      "categories": [
+        "culture"
+      ],
+      "favorites": [],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.105445,
+          47.565451
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e9640a4ab8d8aa6e8d6c83/file.png",
+        "large": "/api/v2/locations/impression/image/56e9640a4ab8d8aa6e8d6c84/file.png",
+        "normal": "/api/v2/locations/impression/image/56e9640a4ab8d8aa6e8d6c85/file.png",
+        "small": "/api/v2/locations/impression/image/56e9640a4ab8d8aa6e8d6c86/file.png"
+      },
+      "city": {
+        "title": "Weinfelden",
+        "place_id": "2639064860"
+      },
+      "create_date": "2016-03-16T13:47:56.943Z",
+      "modified_date": "2016-03-16T13:47:56.943Z"
+    }
+  },
+  {
+    "dis": 13.18153798580528,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c5b",
+      "preLocation": false,
+      "create_date": "2015-07-24T18:41:39.183Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.6975675,8.998978099999931",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28b1/boot.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28b4/boot.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28b6/boot.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28b8/boot.jpeg"
+      },
+      "modified_date": "2015-07-24T18:42:33.316Z",
+      "tags": [
+        "Bar"
+      ],
+      "title": "Boot",
+      "city": {
+        "title": "Gaienhofen, Deutschland",
+        "place_id": "ChIJk_GO4vuKmkcRkJnfpbdrHwQ",
+        "id": "ChIJk_GO4vuKmkcRkJnfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.998978099999931,
+          47.6975675
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaad8",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 15.043246511250754,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c52",
+      "preLocation": false,
+      "create_date": "2015-08-17T18:34:32.814Z",
+      "modified_date": "2015-09-12T22:41:29.921Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.794663311541456,9.09644365310669",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2861/blick_aus_dem_restaurant_riva.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2864/blick_aus_dem_restaurant_riva.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2866/blick_aus_dem_restaurant_riva.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2868/blick_aus_dem_restaurant_riva.jpeg"
+      },
+      "tags": [
+        "Pizza",
+        "Ausblick",
+        "Restaurant",
+        "italienisch",
+        "Bodensee"
+      ],
+      "title": "Blick aus dem Restaurant Riva",
+      "city": {
+        "title": "Sipplingen, Germany",
+        "place_id": "ChIJyZqSmhJemkcR8ITfpbdrHwQ",
+        "id": "ChIJyZqSmhJemkcR8ITfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.09644365310669,
+          47.794663311541456
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccaa49",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 15.467775210523598,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c56",
+      "preLocation": false,
+      "create_date": "2015-12-25T11:31:03.128Z",
+      "modified_date": "2016-01-13T23:55:43.732Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.75907481186173,9.012608528137207",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc2883/mindelsee.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc2888/mindelsee.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc288b/mindelsee.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc288d/mindelsee.jpeg"
+      },
+      "tags": [
+        "See",
+        "spazieren",
+        "Natur"
+      ],
+      "title": "Mindelsee",
+      "city": {
+        "title": "Radolfzell am Bodensee, Deutschland",
+        "place_id": "ChIJ69QvGaJhmkcREJrfpbdrHwQ",
+        "id": "ChIJ69QvGaJhmkcREJrfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.012608528137207,
+          47.75907481186173
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab67",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 16.274185750801514,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c63",
+      "preLocation": false,
+      "create_date": "2015-07-26T13:35:32.204Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.803239552900614,9.084148406982422",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28f3/schoene_aussicht_auf_den_bodensee.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28f7/schoene_aussicht_auf_den_bodensee.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28f9/schoene_aussicht_auf_den_bodensee.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28fb/schoene_aussicht_auf_den_bodensee.jpeg"
+      },
+      "modified_date": "2015-09-12T22:41:24.419Z",
+      "tags": [
+        "natur",
+        "Bodensee",
+        "wandern",
+        "spazieren",
+        "aussicht"
+      ],
+      "title": "Schöne Aussicht auf den Bodensee",
+      "city": {
+        "title": "Sipplingen, Deutschland",
+        "place_id": "ChIJyZqSmhJemkcR8ITfpbdrHwQ",
+        "id": "ChIJyZqSmhJemkcR8ITfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.084148406982422,
+          47.803239552900614
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccaa86",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 16.80256621484066,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cad",
+      "preLocation": false,
+      "create_date": "2015-08-20T10:50:42.837Z",
+      "modified_date": "2015-08-30T21:42:20.984Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.7386263,8.9707139",
+        "xlarge": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b73/buefee.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b77/buefee.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b79/buefee.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b7b/buefee.jpeg"
+      },
+      "tags": [
+        "#döner"
+      ],
+      "title": "Büfee",
+      "city": {
+        "title": "Radolfzell, Germany",
+        "place_id": "ChIJ69QvGaJhmkcREJrfpbdrHwQ",
+        "id": "ChIJ69QvGaJhmkcREJrfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.9707139,
+          47.7386263
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab35",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 17.065320129584165,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb0",
+      "preLocation": false,
+      "create_date": "2015-10-01T15:15:59.132Z",
+      "modified_date": "2015-10-07T07:37:03.139Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.77268055365213,9.001989243560471",
+        "xlarge": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b91/schlafen_im_heu.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b96/schlafen_im_heu.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b99/schlafen_im_heu.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b9b/schlafen_im_heu.jpeg"
+      },
+      "tags": [
+        "Bauernhof",
+        "Natur",
+        "Heuhotel"
+      ],
+      "title": "Schlafen im Heu",
+      "city": {
+        "title": "Radolfzell am Bodensee, Deutschland",
+        "place_id": "ChIJ69QvGaJhmkcREJrfpbdrHwQ",
+        "id": "ChIJ69QvGaJhmkcREJrfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.001989243560471,
+          47.77268055365213
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab87",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 20.342894421531575,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb8",
+      "preLocation": false,
+      "create_date": "2015-09-13T21:06:14.639Z",
+      "modified_date": "2015-09-21T13:43:02.891Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.659231,9.441037999999935",
+        "xlarge": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bd6/spicy-grill_restaurant.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bdc/spicy-grill_restaurant.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bdf/spicy-grill_restaurant.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2be1/spicy-grill_restaurant.jpeg"
+      },
+      "tags": [
+        "Grill",
+        "Restaurant",
+        "essen",
+        "Fleisch",
+        "Burger",
+        "lecker"
+      ],
+      "title": "Spicy-Grill Restaurant",
+      "city": {
+        "title": "Friedrichshafen, Deutschland",
+        "place_id": "ChIJ080TOl4Am0cRIITfpbdrHwQ",
+        "id": "ChIJ080TOl4Am0cRIITfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.441037999999935,
+          47.659231
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 26.61888189610735,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c61",
+      "title": "Nikos Bar",
+      "city": {
+        "title": "Singen (Hohentwiel), Deutschland",
+        "place_id": "ChIJn_6K-jN9mkcR7yzLmUD5-aM",
+        "id": "ChIJn_6K-jN9mkcR7yzLmUD5-aM"
+      },
+      "tags": [
+        "lifestylebar",
+        "bar",
+        "Cocktails",
+        "lecker",
+        "Snacks",
+        "chillig",
+        "drinnen&draußen"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.838619600000015,
+          47.7562359
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-25T13:58:49.930Z",
+      "modified_date": "2015-07-26T18:02:12.912Z",
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa0d",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 28.29302914076068,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c62",
+      "preLocation": false,
+      "create_date": "2015-07-25T17:04:54.843Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.8173703,8.8626992",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28e7/ninas_garten_schoen_hier.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28ec/ninas_garten_schoen_hier.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28ef/ninas_garten_schoen_hier.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28f1/ninas_garten_schoen_hier.jpeg"
+      },
+      "modified_date": "2015-07-26T11:40:02.230Z",
+      "tags": [
+        "#garten",
+        "\n#grillen",
+        "#chillen",
+        "\n#saufen"
+      ],
+      "title": "ninas garten schön hier",
+      "city": {
+        "title": "Volkertshausen, Deutschland",
+        "place_id": "ChIJbwfktlB7mkcRcJrfpbdrHwQ",
+        "id": "ChIJbwfktlB7mkcRcJrfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.8626992,
+          47.8173703
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccaa0f",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 29.99298593825489,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c60",
+      "title": "Schwimmbad",
+      "city": {
+        "title": "Gottmadingen, Deutschland",
+        "place_id": "ChIJv4CMDE-HmkcRsJnfpbdrHwQ",
+        "id": "ChIJv4CMDE-HmkcRsJnfpbdrHwQ"
+      },
+      "tags": [
+        "schwimmbad",
+        "sonnen",
+        "badespass"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.781531599999994,
+          47.7357318
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.7357318,8.781531599999994",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28de/schwimmbad.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28e1/schwimmbad.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28e3/schwimmbad.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28e5/schwimmbad.jpeg"
+      },
+      "create_date": "2015-07-25T13:29:55.236Z",
+      "modified_date": "2015-07-25T13:42:42.044Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaa0c",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 32.35957153463294,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb9",
+      "preLocation": false,
+      "create_date": "2015-09-14T18:57:42.229Z",
+      "modified_date": "2015-10-19T10:35:11.089Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.590765,9.585816000000023",
+        "xlarge": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2be3/abenteuerpark_kressbronn.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2be5/abenteuerpark_kressbronn.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2be7/abenteuerpark_kressbronn.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2be9/abenteuerpark_kressbronn.jpeg"
+      },
+      "tags": [
+        "Abenteuer",
+        "klettern",
+        "Freizeit"
+      ],
+      "title": "Abenteuerpark Kressbronn",
+      "city": {
+        "title": "Kressbronn am Bodensee, Deutschland",
+        "place_id": "ChIJdWjnoQQGm0cRYITfpbdrHwQ",
+        "id": "ChIJdWjnoQQGm0cRYITfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.585816000000023,
+          47.590765
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 39.166931782716624,
+    "obj": {
+      "_id": "56e9a2e524ea8ee82193b5fb",
+      "user_id": "56e82bd502e5a70b4fccab47",
+      "title": "Surfen im Technopark",
+      "categories": [
+        "secret"
+      ],
+      "favorites": [],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.7152233,
+          47.4952755
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e9a2e34ab8d8aa6e8d6ca2/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e9a2e34ab8d8aa6e8d6ca3/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e9a2e34ab8d8aa6e8d6ca4/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e9a2e34ab8d8aa6e8d6ca5/image.jpg"
+      },
+      "city": {
+        "title": "Winterthur",
+        "place_id": "57479313"
+      },
+      "create_date": "2016-03-16T18:16:05.918Z",
+      "modified_date": "2016-03-16T18:16:05.918Z"
+    }
+  },
+  {
+    "dis": 67.78232032597154,
+    "obj": {
+      "_id": "56eeec2b31f4b2525ec2fcec",
+      "user_id": "56e8543b6ef01db36eb26a19",
+      "title": "Skigebiet Damüls",
+      "categories": [
+        "holiday",
+        "nature"
+      ],
+      "favorites": [],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.878962,
+          47.292048
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56eeec291fa0425b5ea4d2cd/file.png",
+        "large": "/api/v2/locations/impression/image/56eeec291fa0425b5ea4d2ce/file.png",
+        "normal": "/api/v2/locations/impression/image/56eeec291fa0425b5ea4d2cf/file.png",
+        "small": "/api/v2/locations/impression/image/56eeec291fa0425b5ea4d2d0/file.png"
+      },
+      "city": {
+        "title": "Damüls",
+        "place_id": "59350622"
+      },
+      "create_date": "2016-03-20T18:30:03.459Z",
+      "modified_date": "2016-03-20T18:30:03.459Z"
+    }
+  },
+  {
+    "dis": 68.13286726054412,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2caf",
+      "preLocation": false,
+      "create_date": "2015-08-16T16:21:44.426Z",
+      "modified_date": "2015-08-16T16:25:47.188Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=48.04831546973372,8.452928066253662",
+        "xlarge": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b89/warenberg_bierchen_und_sonnenuntergang.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b8b/warenberg_bierchen_und_sonnenuntergang.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b8d/warenberg_bierchen_und_sonnenuntergang.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b8f/warenberg_bierchen_und_sonnenuntergang.jpeg"
+      },
+      "tags": [
+        "Villingen-Schwenningen",
+        "Warenberg",
+        "Sonnenuntergang",
+        "Bier",
+        "Freunde",
+        "ruhig",
+        "Freundin",
+        "abhängen",
+        "Spaß"
+      ],
+      "title": "Warenberg Bierchen & Sonnenuntergang",
+      "city": {
+        "title": "Villingen-Schwenningen, Germany",
+        "place_id": "ChIJeXNc6WaWkEcRoInfpbdrHwQ",
+        "id": "ChIJeXNc6WaWkEcRoInfpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.452928066253662,
+          48.04831546973372
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab11",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 68.16159776201121,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c55",
+      "preLocation": false,
+      "create_date": "2015-08-03T19:02:25.617Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=48.0484230536206,8.452563285827637",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc287b/warenbergchillerei.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc287d/warenbergchillerei.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc287f/warenbergchillerei.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc2881/warenbergchillerei.jpeg"
+      },
+      "modified_date": "2015-08-03T19:11:39.527Z",
+      "tags": [
+        "Warenberg",
+        "sonnenuntergang",
+        "villingen",
+        "chillen",
+        "sonne",
+        "gemütlich",
+        "freunde",
+        "draussen",
+        "liebe"
+      ],
+      "title": "Warenbergchillerei",
+      "city": {
+        "title": "Villingen-Schwenningen, Deutschland",
+        "place_id": "ChIJeXNc6WaWkEcRoInfpbdrHwQ",
+        "id": "ChIJeXNc6WaWkEcRoInfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.452563285827637,
+          48.0484230536206
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa33",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 68.25494536687665,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c5f",
+      "preLocation": false,
+      "create_date": "2015-07-25T11:23:44.734Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=48.0594021,8.464086899999984",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28d6/mauritius.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28d8/mauritius.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28da/mauritius.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28dc/mauritius.jpeg"
+      },
+      "modified_date": "2015-07-25T11:26:33.448Z",
+      "tags": [
+        "Cocktails",
+        "Essen",
+        "Abschalten",
+        "Schwenningen"
+      ],
+      "title": "Mauritius",
+      "city": {
+        "title": "Villingen-Schwenningen, Deutschland",
+        "place_id": "ChIJeXNc6WaWkEcRoInfpbdrHwQ",
+        "id": "ChIJeXNc6WaWkEcRoInfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.464086899999984,
+          48.0594021
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa0a",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 68.37099341764979,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c65",
+      "title": "Schiefersee - Frommern",
+      "city": {
+        "title": "Balingen, Deutschland",
+        "place_id": "ChIJUceqMhcHmkcRDQ83FCJZABA",
+        "id": "ChIJUceqMhcHmkcRDQ83FCJZABA"
+      },
+      "tags": [
+        "See",
+        "baden",
+        "chillen",
+        "frisbee",
+        "gratis",
+        "Kult"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.857362270355225,
+          48.246875651334506
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-20T13:59:51.448Z",
+      "delete": false,
+      "public": true,
+      "preLocation": false,
+      "modified_date": "2015-07-20T14:00:14.612Z",
+      "user_id": "56e82bd502e5a70b4fccaabb",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccaabb"
+      ]
+    }
+  },
+  {
+    "dis": 69.95071525422831,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cc2",
+      "preLocation": false,
+      "create_date": "2015-08-25T18:39:22.360Z",
+      "modified_date": "2015-09-11T13:19:38.946Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.864500439045045,8.280322551727295",
+        "xlarge": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c29/wutachschlucht.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c2c/wutachschlucht.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c2e/wutachschlucht.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c30/wutachschlucht.jpeg"
+      },
+      "tags": [
+        "Wandern",
+        "Schwarzwald",
+        "Wutach",
+        "Zelten"
+      ],
+      "title": "Wutachschlucht",
+      "city": {
+        "title": "Löffingen, Germany",
+        "place_id": "ChIJZ2Hp_vmMkEcRMIQdLi2zP-Q",
+        "id": "ChIJZ2Hp_vmMkEcRMIQdLi2zP-Q"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.280322551727295,
+          47.864500439045045
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab8c",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 70.94522837590324,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cae",
+      "preLocation": false,
+      "create_date": "2015-08-15T20:14:12.391Z",
+      "modified_date": "2015-08-15T20:16:06.821Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=48.26973994522503,8.850083518264965",
+        "xlarge": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b7d/baeren_balingen.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b82/baeren_balingen.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b85/baeren_balingen.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b87/baeren_balingen.jpeg"
+      },
+      "tags": [
+        "Bären",
+        "Bar",
+        "Kneipe",
+        "Bier",
+        "Tradition"
+      ],
+      "title": "Bären Balingen",
+      "city": {
+        "title": "Balingen, Deutschland",
+        "place_id": "ChIJUceqMhcHmkcRDQ83FCJZABA",
+        "id": "ChIJUceqMhcHmkcRDQ83FCJZABA"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.850083518264965,
+          48.26973994522503
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab88",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccaabb",
+        "56e8543b6ef01db36eb26a19"
+      ]
+    }
+  },
+  {
+    "dis": 83.31651338763636,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb2",
+      "title": "SchwarzwaldSommernachtstraum",
+      "city": {
+        "title": "Furtwangen im Schwarzwald, Deutschland",
+        "place_id": "ChIJzyxmBB_pkEcR0IjfpbdrHwQ",
+        "id": "ChIJzyxmBB_pkEcR0IjfpbdrHwQ"
+      },
+      "tags": [
+        "Wald",
+        "Luft",
+        "Gemütlich",
+        "Dunkel"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.207924365997314,
+          48.04942715906077
+        ]
+      },
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=48.04942715906077,8.207924365997314",
+        "xlarge": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2ba8/schwarzwaldsommernachtstraum.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2baa/schwarzwaldsommernachtstraum.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bac/schwarzwaldsommernachtstraum.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2bae/schwarzwaldsommernachtstraum.jpeg"
+      },
+      "create_date": "2015-07-21T22:20:04.339Z",
+      "modified_date": "2015-07-21T22:21:38.673Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccab6c",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 94.34245220539502,
+    "obj": {
+      "_id": "56ee5ad731f4b2525ec2fcc9",
+      "user_id": "56e82bd502e5a70b4fccab8c",
+      "title": "Hotel Sonnenalm",
+      "categories": [
+        "gastro",
+        "nature"
+      ],
+      "favorites": [
+        "56e82bd502e5a70b4fccab8b",
+        "56e82bd502e5a70b4fccaa77"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          7.9371986,
+          47.8512813
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56ee5acf1fa0425b5ea4d2c5/image.jpg",
+        "large": "/api/v2/locations/impression/image/56ee5acf1fa0425b5ea4d2c6/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56ee5acf1fa0425b5ea4d2c7/image.jpg",
+        "small": "/api/v2/locations/impression/image/56ee5acf1fa0425b5ea4d2c8/image.jpg"
+      },
+      "city": {
+        "title": "Todtnau",
+        "place_id": "2586932608"
+      },
+      "create_date": "2016-03-20T08:09:59.372Z",
+      "modified_date": "2016-03-20T08:09:59.372Z"
+    }
+  },
+  {
+    "dis": 101.43939873365623,
+    "obj": {
+      "_id": "56e9499898662d987e823f2d",
+      "user_id": "56e92a496ef01db36eb26a49",
+      "title": "myer's club ulm",
+      "categories": [
+        "nightlife"
+      ],
+      "favorites": [
+        "56e92a496ef01db36eb26a49",
+        "56e82bd502e5a70b4fccab66"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.989821,
+          48.397745
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e949964ab8d8aa6e8d6c79/file.png",
+        "large": "/api/v2/locations/impression/image/56e949964ab8d8aa6e8d6c7a/file.png",
+        "normal": "/api/v2/locations/impression/image/56e949964ab8d8aa6e8d6c7b/file.png",
+        "small": "/api/v2/locations/impression/image/56e949964ab8d8aa6e8d6c7c/file.png"
+      },
+      "city": {
+        "title": "Ulm",
+        "place_id": "132107185"
+      },
+      "create_date": "2016-03-16T11:55:04.424Z",
+      "modified_date": "2016-03-16T11:55:04.424Z"
+    }
+  },
+  {
+    "dis": 101.50300410972991,
+    "obj": {
+      "_id": "56e943bd2fb961b66bbb5c8e",
+      "user_id": "56e92a496ef01db36eb26a49",
+      "title": "stitz club ulm",
+      "categories": [
+        "nightlife"
+      ],
+      "favorites": [
+        "56e82bd502e5a70b4fccab66",
+        "56e92a496ef01db36eb26a49"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.988365,
+          48.399197
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e943b84ab8d8aa6e8d6c5a/file.png",
+        "large": "/api/v2/locations/impression/image/56e943b84ab8d8aa6e8d6c5b/file.png",
+        "normal": "/api/v2/locations/impression/image/56e943b84ab8d8aa6e8d6c5c/file.png",
+        "small": "/api/v2/locations/impression/image/56e943b84ab8d8aa6e8d6c5d/file.png"
+      },
+      "city": {
+        "title": "Ulm",
+        "place_id": "17192316"
+      },
+      "create_date": "2016-03-16T11:30:05.565Z",
+      "modified_date": "2016-03-16T11:30:05.565Z"
+    }
+  },
+  {
+    "dis": 101.76039742277067,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c58",
+      "preLocation": false,
+      "create_date": "2016-02-06T13:56:41.487Z",
+      "modified_date": "2016-03-06T15:45:31.937Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=48.406528394961335,9.979448318481445",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc2897/ulmer_morgengrauen.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc289a/ulmer_morgengrauen.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc289c/ulmer_morgengrauen.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc289e/ulmer_morgengrauen.jpeg"
+      },
+      "tags": [
+        "ulm"
+      ],
+      "title": "Ulmer Morgengrauen",
+      "city": {
+        "title": "Ulm, Germany",
+        "place_id": "ChIJ_Qs1mGlkmUcRkH3fpbdrHwQ",
+        "id": "ChIJ_Qs1mGlkmUcRkH3fpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.979448318481445,
+          48.406528394961335
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fcca9ee",
+      "categories": [],
+      "favorites": [
+        "56e92a496ef01db36eb26a49"
+      ]
+    }
+  },
+  {
+    "dis": 104.74993685432318,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb1",
+      "preLocation": false,
+      "create_date": "2015-10-09T16:20:25.046Z",
+      "modified_date": "2015-11-04T14:18:54.820Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.9934445,7.8524887",
+        "xlarge": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2b9d/feierling.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be312daae1a4fdc2ba2/feierling.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2ba4/feierling.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2ba6/feierling.jpeg"
+      },
+      "tags": [
+        "Biergarten",
+        "Bier",
+        "Freiburg"
+      ],
+      "title": "Feierling",
+      "city": {
+        "title": "Freiburg, Germany",
+        "place_id": "ChIJZdYLViYbkUcRsFffpbdrHwQ",
+        "id": "ChIJZdYLViYbkUcRsFffpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          7.8524887,
+          47.9934445
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab8c",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 105.43351073195736,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca1",
+      "preLocation": false,
+      "create_date": "2015-08-08T21:58:55.928Z",
+      "modified_date": "2015-08-08T22:01:26.588Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.9963062,7.8442623",
+        "xlarge": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b0e/karma_karma_karma_chameleon.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b12/karma_karma_karma_chameleon.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b14/karma_karma_karma_chameleon.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b16/karma_karma_karma_chameleon.jpeg"
+      },
+      "tags": [
+        "Cocktails",
+        "Bar",
+        "Freiburg"
+      ],
+      "title": "karma karma karma chameleon",
+      "city": {
+        "title": "Freiburg, Germany",
+        "place_id": "ChIJZdYLViYbkUcRsFffpbdrHwQ",
+        "id": "ChIJZdYLViYbkUcRsFffpbdrHwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          7.8442623,
+          47.9963062
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab17",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 108.22109072463273,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c5c",
+      "preLocation": false,
+      "create_date": "2015-07-19T22:39:19.082Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=47.54440118927768,7.738017439842224",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28ba/hertener_loch.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28be/hertener_loch.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28c0/hertener_loch.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd912daae1a4fdc28c2/hertener_loch.jpeg"
+      },
+      "modified_date": "2015-08-04T17:28:49.099Z",
+      "tags": [
+        "Wasser",
+        "Rhein",
+        "Chillen",
+        "Grillen",
+        "Wiese",
+        "Baden"
+      ],
+      "title": "Hertener Loch",
+      "city": {
+        "title": "Rheinfelden (Baden), Deutschland",
+        "place_id": "ChIJk1ofToGzkUcR8JvfpbdrHwQ",
+        "id": "ChIJk1ofToGzkUcR8JvfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          7.738017439842224,
+          47.54440118927768
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaaf0",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 126.85810836223848,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c4d",
+      "preLocation": false,
+      "create_date": "2015-07-21T15:21:48.252Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=48.269733,7.721381999999949",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc2830/europa_park.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc2833/europa_park.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc2835/europa_park.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc2837/europa_park.jpeg"
+      },
+      "modified_date": "2015-11-30T15:44:49.025Z",
+      "tags": [
+        "Europa",
+        "Freizeitpark",
+        "spaß",
+        "achterbahn",
+        "rust",
+        "kindheitserinnerungen"
+      ],
+      "title": "Europa Park",
+      "city": {
+        "title": "Rust, Deutschland",
+        "place_id": "ChIJrR6otoE5kUcRIIbfpbdrHwQ",
+        "id": "ChIJrR6otoE5kUcRIIbfpbdrHwQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          7.721381999999949,
+          48.269733
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccaa33",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 156.30817743713303,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cb3",
+      "title": "Schlossgarten Karlsruhe",
+      "city": {
+        "title": "Karlsruhe, Deutschland",
+        "place_id": "ChIJCXjgokgGl0cRf-63THNV_LY",
+        "id": "ChIJCXjgokgGl0cRf-63THNV_LY"
+      },
+      "tags": [
+        "Schloss",
+        "Garten",
+        "chillen",
+        "Wasser",
+        "Teich"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          8.474985999999944,
+          48.9963635
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-07-22T07:01:29.135Z",
+      "modified_date": "2015-07-22T23:09:37.272Z",
+      "public": true,
+      "delete": false,
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccaab6",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 164.8301340957812,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca2",
+      "title": "Hip Island",
+      "city": {
+        "title": "Heilbronn, Deutschland",
+        "place_id": "ChIJ0VFNsJcomEcRcJAJjTz9HwQ",
+        "id": "ChIJ0VFNsJcomEcRcJAJjTz9HwQ"
+      },
+      "tags": [
+        "Beach",
+        "Cocktails"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.21032783562623,
+          49.150790430091845
+        ]
+      },
+      "public": true,
+      "delete": false,
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e82bd612daae1a4fdc282e/image.jpg"
+      },
+      "create_date": "2015-08-09T17:25:02.886Z",
+      "modified_date": "2015-08-09T17:25:02.886Z",
+      "user_id": "56e82bd502e5a70b4fccab18",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 167.05608103093408,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c57",
+      "preLocation": false,
+      "create_date": "2016-02-05T15:46:19.660Z",
+      "modified_date": "2016-02-09T20:00:17.782Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=49.12315201800219,9.73663330078125",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc288f/schwaebisch_hall_unicorns__gfl_-_1._bl.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc2891/schwaebisch_hall_unicorns__gfl_-_1._bl.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc2893/schwaebisch_hall_unicorns__gfl_-_1._bl.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc2895/schwaebisch_hall_unicorns__gfl_-_1._bl.jpeg"
+      },
+      "tags": [
+        "AmericanFootball",
+        "Football",
+        "Unicorns",
+        "GFL",
+        "1Bundesliga"
+      ],
+      "title": "Schwäbisch Hall Unicorns / GFL - 1. BL",
+      "city": {
+        "title": "Schwäbisch Hall, Germany",
+        "place_id": "ChIJn14Q1W9QmEcRIHQJjTz9HwQ",
+        "id": "ChIJn14Q1W9QmEcRIHQJjTz9HwQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.73663330078125,
+          49.12315201800219
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccaacc",
+      "categories": [],
+      "favorites": [
+        "56e99e006ef01db36eb26a55"
+      ]
+    }
+  },
+  {
+    "dis": 188.37779804337768,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca5",
+      "title": "Biergarten am Chinaturm",
+      "city": {
+        "title": "München, Deutschland",
+        "place_id": "ChIJ2V-Mo_l1nkcRfZixfUq4DAE",
+        "id": "ChIJ2V-Mo_l1nkcRfZixfUq4DAE"
+      },
+      "tags": [
+        "schön",
+        "lecker",
+        "vespern",
+        "musik"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          11.5921453,
+          48.1523329
+        ]
+      },
+      "public": true,
+      "delete": false,
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=48.1523329,11.5921453",
+        "xlarge": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b2d/biergarten_am_chinaturm.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b30/biergarten_am_chinaturm.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b32/biergarten_am_chinaturm.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b34/biergarten_am_chinaturm.jpeg"
+      },
+      "create_date": "2015-08-15T12:22:35.731Z",
+      "modified_date": "2015-09-25T22:49:07.317Z",
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccab84",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 399.7340222533998,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cc3",
+      "title": "Deutschland",
+      "city": {
+        "title": "Deutschland",
+        "place_id": "ChIJ9zH5n1ySpEcRL4-wXMPMwIg",
+        "id": "ChIJ9zH5n1ySpEcRL4-wXMPMwIg"
+      },
+      "tags": [
+        "nazisraus",
+        "stopdenhass",
+        "mundaufmachen",
+        "refugees-welcome"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          10.451526000000058,
+          51.165691
+        ]
+      },
+      "public": true,
+      "delete": false,
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=5&markers=51.165691,10.451526000000058",
+        "xlarge": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c32/deutschland.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c35/deutschland.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c37/deutschland.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c39/deutschland.jpeg"
+      },
+      "create_date": "2015-08-26T18:18:54.856Z",
+      "modified_date": "2015-09-21T13:43:56.434Z",
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccac1d",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 617.4095015142944,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cbb",
+      "preLocation": false,
+      "create_date": "2015-09-12T13:36:03.372Z",
+      "modified_date": "2015-09-12T14:46:21.876Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.497201,13.449379000000022",
+        "xlarge": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2bf6/chalet.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2bf8/chalet.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2bfa/chalet.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2bfc/chalet.jpeg"
+      },
+      "tags": [
+        "Techno",
+        "Club",
+        "berlin"
+      ],
+      "title": "Chalet",
+      "city": {
+        "title": "Berlin, Deutschland",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.449379000000022,
+          52.497201
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab89",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab89",
+        "56e82bd502e5a70b4fccab8c",
+        "56e82bd502e5a70b4fccab67"
+      ]
+    }
+  },
+  {
+    "dis": 617.7959176765677,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cba",
+      "preLocation": false,
+      "create_date": "2015-09-11T17:21:03.248Z",
+      "modified_date": "2015-09-26T20:29:29.465Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.495119,13.4659657",
+        "xlarge": "/api/v2/locations/impression/image/56e82be412daae1a4fdc2beb/dora_benjamin_park.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2bf0/dora_benjamin_park.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2bf2/dora_benjamin_park.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2bf4/dora_benjamin_park.jpeg"
+      },
+      "tags": [
+        "joggen",
+        "spazieren",
+        "chillen"
+      ],
+      "title": "Dora Benjamin Park",
+      "city": {
+        "title": "Berlin, Germany",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.4659657,
+          52.495119
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab89",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab8c"
+      ]
+    }
+  },
+  {
+    "dis": 617.9288689593121,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c69",
+      "preLocation": false,
+      "create_date": "2015-08-10T14:12:23.445Z",
+      "modified_date": "2015-08-30T12:37:49.075Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.509021,13.4321332",
+        "xlarge": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2927/yaam.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc292c/yaam.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc292f/yaam.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2931/yaam.jpeg"
+      },
+      "tags": [
+        "#sand",
+        "#chillen",
+        "#urlaubn"
+      ],
+      "title": "yaam",
+      "city": {
+        "title": "Berlin, Germany",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.4321332,
+          52.509021
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccaa32",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 618.3785579439003,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c6b",
+      "preLocation": false,
+      "create_date": "2015-08-28T21:40:57.379Z",
+      "modified_date": "2015-08-31T19:31:35.298Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.50149574676307,13.465322256088257",
+        "xlarge": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc293b/open_air_mit_selbstgebrautem.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc293e/open_air_mit_selbstgebrautem.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2940/open_air_mit_selbstgebrautem.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2942/open_air_mit_selbstgebrautem.jpeg"
+      },
+      "tags": [
+        "Pompeji",
+        "Open",
+        "Air",
+        "Kino",
+        "Zukunft",
+        "Bier",
+        "Berlin",
+        "romantisch",
+        "gemütlich",
+        ""
+      ],
+      "title": "Open Air mit Selbstgebrautem",
+      "city": {
+        "title": "Berlin, Germany",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.465322256088257,
+          52.50149574676307
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab11",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 618.4157455146025,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cbc",
+      "preLocation": false,
+      "create_date": "2015-09-12T13:44:09.178Z",
+      "modified_date": "2015-12-16T13:40:18.106Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.507189,13.451000000000022",
+        "xlarge": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2bfe/suicide_circus.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c00/suicide_circus.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c02/suicide_circus.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be512daae1a4fdc2c04/suicide_circus.jpeg"
+      },
+      "tags": [
+        "Berlin",
+        "Techno"
+      ],
+      "title": "Suicide Circus",
+      "city": {
+        "title": "Berlin, Deutschland",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.451000000000022,
+          52.507189
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab89",
+      "categories": [],
+      "favorites": [
+        "56e9fdb9cc75d02364a23285",
+        "56e82bd502e5a70b4fccab8c"
+      ]
+    }
+  },
+  {
+    "dis": 619.0708303700553,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca6",
+      "preLocation": false,
+      "create_date": "2015-11-09T18:24:38.891Z",
+      "modified_date": "2015-11-10T19:27:25.296Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.50748251577684,13.46883756001022",
+        "xlarge": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b36/machetes_burritos.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b3c/machetes_burritos.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b3f/machetes_burritos.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b41/machetes_burritos.jpeg"
+      },
+      "tags": [
+        "Borritos",
+        "lecker",
+        "frisch"
+      ],
+      "title": "Machetes Burritos",
+      "city": {
+        "title": "Berlin, Deutschland",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.46883756001022,
+          52.50748251577684
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab88",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 620.0423553936715,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c59",
+      "title": "Café Pförtner",
+      "city": {
+        "title": "Berlin, Deutschland",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "tags": [
+        "Essen"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.3743192,
+          52.5521462
+        ]
+      },
+      "public": true,
+      "delete": false,
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.5521462,13.3743192",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28a0/café_pfoertner.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28a2/café_pfoertner.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28a4/café_pfoertner.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd812daae1a4fdc28a6/café_pfoertner.jpeg"
+      },
+      "create_date": "2016-02-19T13:35:42.305Z",
+      "modified_date": "2016-02-23T16:18:41.810Z",
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccab8c",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 620.0886654479101,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2ca7",
+      "title": "Mauerpark",
+      "city": {
+        "title": "Berlin, Deutschland",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "tags": [
+        "Schön",
+        "Mauerpark",
+        "Bank",
+        "Ausblick"
+      ],
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.40330420157181,
+          52.54218401107034
+        ]
+      },
+      "public": true,
+      "delete": false,
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.54218401107034,13.40330420157181",
+        "xlarge": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b43/mauerpark.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b46/mauerpark.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b48/mauerpark.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be212daae1a4fdc2b4a/mauerpark.jpeg"
+      },
+      "create_date": "2015-11-12T11:17:30.978Z",
+      "modified_date": "2015-11-30T13:41:42.928Z",
+      "preLocation": false,
+      "user_id": "56e82bd502e5a70b4fccab88",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab67"
+      ]
+    }
+  },
+  {
+    "dis": 621.2375335442977,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c4f",
+      "preLocation": false,
+      "create_date": "2015-07-30T00:29:27.123Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=52.549465,13.416402000000062",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2843/deck_5.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2847/deck_5.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2849/deck_5.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc284b/deck_5.jpeg"
+      },
+      "modified_date": "2015-08-30T19:11:00.387Z",
+      "tags": [
+        "überberlin",
+        "Bar"
+      ],
+      "title": "Deck 5",
+      "city": {
+        "title": "Berlin, Deutschland",
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          13.416402000000062,
+          52.549465
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab89",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab8b",
+        "56e9fdb9cc75d02364a23285"
+      ]
+    }
+  },
+  {
+    "dis": 758.1357013725224,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c50",
+      "preLocation": false,
+      "create_date": "2015-07-30T13:06:22.285Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=43.40609408562312,16.77691028095449",
+        "xlarge": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc284d/autocamp_sirena.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2851/autocamp_sirena.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2854/autocamp_sirena.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bd712daae1a4fdc2856/autocamp_sirena.jpeg"
+      },
+      "modified_date": "2015-08-30T21:11:38.136Z",
+      "tags": [
+        "Camping",
+        "Meer",
+        "Kroatien"
+      ],
+      "title": "Autocamp Sirena",
+      "city": {
+        "title": "Lokva Rogoznica, Kroatien",
+        "place_id": "ChIJcepex_2WShMRq0zwxDAU7IA",
+        "id": "ChIJcepex_2WShMRq0zwxDAU7IA"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          16.77691028095449,
+          43.40609408562312
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab8b",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab89"
+      ]
+    }
+  },
+  {
+    "dis": 792.9767540817711,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c67",
+      "preLocation": false,
+      "create_date": "2015-07-28T00:09:06.159Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=51.503324,-0.1195430000000215",
+        "xlarge": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc290f/london_eye.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2912/london_eye.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2914/london_eye.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2916/london_eye.jpeg"
+      },
+      "modified_date": "2015-07-30T00:02:37.105Z",
+      "tags": [
+        "London",
+        "Riesenrad"
+      ],
+      "title": "London Eye",
+      "city": {
+        "title": "London, Großbritannien und Nordirland",
+        "place_id": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+        "id": "ChIJdd4hrwug2EcRmSrV3Vo6llI"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          -0.1195430000000215,
+          51.503324
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab89",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 895.2308036772962,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2c68",
+      "preLocation": false,
+      "create_date": "2015-08-10T11:30:27.419Z",
+      "modified_date": "2015-11-29T18:35:29.825Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=42.641732999045836,18.10371458530426",
+        "xlarge": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2918/beach_neben_fort_lovrijenac.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2920/beach_neben_fort_lovrijenac.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2923/beach_neben_fort_lovrijenac.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82bda12daae1a4fdc2925/beach_neben_fort_lovrijenac.jpeg"
+      },
+      "tags": [
+        "fort",
+        "Lovrijenac",
+        "beach",
+        "GameOfThrones",
+        "baden"
+      ],
+      "title": "Beach neben Fort Lovrijenac",
+      "city": {
+        "title": "Dubrovnik, Kroatien",
+        "place_id": "ChIJfeg1CKKLSxMRANUrhlCtAAQ",
+        "id": "ChIJfeg1CKKLSxMRANUrhlCtAAQ"
+      },
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          18.10371458530426,
+          42.641732999045836
+        ]
+      },
+      "delete": false,
+      "public": true,
+      "user_id": "56e82bd502e5a70b4fccab8b",
+      "categories": [],
+      "favorites": []
+    }
+  },
+  {
+    "dis": 941.7248239625277,
+    "obj": {
+      "_id": "56e82be612daae1a4fdc2cc5",
+      "preLocation": false,
+      "create_date": "2015-09-19T12:40:38.109Z",
+      "modified_date": "2015-09-30T09:49:08.963Z",
+      "images": {
+        "googlemap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=39.20027146300785,9.322789907455444",
+        "xlarge": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c44/kleiner_geheimer_strand_in_cagliari.jpeg",
+        "large": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c47/kleiner_geheimer_strand_in_cagliari.jpeg",
+        "normal": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c49/kleiner_geheimer_strand_in_cagliari.jpeg",
+        "small": "/api/v2/locations/impression/image/56e82be612daae1a4fdc2c4b/kleiner_geheimer_strand_in_cagliari.jpeg"
+      },
+      "tags": [
+        "Schnorcheln",
+        "Strand",
+        "Meer",
+        "geheim",
+        "bucht"
+      ],
+      "title": "Kleiner geheimer Strand in Cagliari",
+      "city": {
+        "title": "Quartu Sant'Elena CA, Italien",
+        "place_id": "ChIJLcB0R6XL4BIRj-iRuUbUidc",
+        "id": "ChIJLcB0R6XL4BIRj-iRuUbUidc"
+      },
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          9.322789907455444,
+          39.20027146300785
+        ]
+      },
+      "delete": false,
+      "user_id": "56e82bd502e5a70b4fccab88",
+      "categories": [],
+      "favorites": [
+        "56e82bd502e5a70b4fccab8c"
+      ]
+    }
+  },
+  {
+    "dis": 1563.9567169485094,
+    "obj": {
+      "_id": "56e9479d98662d987e823f2b",
+      "user_id": "56e82bd502e5a70b4fccaa33",
+      "title": "Oasis Backpacker Hostel",
+      "categories": [
+        "gastro"
+      ],
+      "favorites": [
+        "56e82bd502e5a70b4fccab8b"
+      ],
+      "public": true,
+      "geotag": {
+        "type": "Point",
+        "coordinates": [
+          -3.5970474,
+          37.1783013
+        ]
+      },
+      "images": {
+        "xlarge": "/api/v2/locations/impression/image/56e947994ab8d8aa6e8d6c71/image.jpg",
+        "large": "/api/v2/locations/impression/image/56e947994ab8d8aa6e8d6c72/image.jpg",
+        "normal": "/api/v2/locations/impression/image/56e947994ab8d8aa6e8d6c73/image.jpg",
+        "small": "/api/v2/locations/impression/image/56e947994ab8d8aa6e8d6c74/image.jpg"
+      },
+      "city": {
+        "title": "Granada",
+        "place_id": "15078047"
+      },
+      "create_date": "2016-03-16T11:46:37.143Z",
+      "modified_date": "2016-03-16T11:46:37.143Z"
+    }
+  }
+]
