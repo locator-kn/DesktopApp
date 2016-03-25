@@ -1,6 +1,7 @@
 import {Component} from 'angular2/core';
 import {RouteConfig, ROUTER_DIRECTIVES} from 'angular2/router';
-import {LocationComponent}  from './LocationComponent/location.component';
+import {LocationDetailComponent}  from './LocationDetailComponent/locationdetail.component';
+import {LocationsComponent}  from './LocationsComponent/locations.component';
 import {UserComponent}      from './UserComponent/user.component';
 import {LocationService} from './services/location.service';
 
@@ -12,7 +13,8 @@ import {LocationService} from './services/location.service';
 })
 
 @RouteConfig([
-    {path: '/location/:id', name: 'Location', component: LocationComponent},
+    {path: '/', name: 'Locations', component: LocationsComponent},
+    {path: '/location/:id', name: 'Location', component: LocationDetailComponent},
     {path: '/user/:id', name: 'User', component: UserComponent},
 ])
 
