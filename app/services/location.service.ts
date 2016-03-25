@@ -10,7 +10,7 @@ export class LocationService {
     }
 
     getLocations() {
-        return this.http.get('./mock.json')
+        return this.http.get('mock.json')
             .map(res => res.json())
     }
 }

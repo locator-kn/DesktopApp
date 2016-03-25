@@ -3,7 +3,8 @@ import {RouteParams, Router} from 'angular2/router';
 import {LocationService} from '../services/location.service';
 
 @Component({
-    templateUrl: './app/locationComponent/template.html'
+    templateUrl: './app/locationComponent/template.html',
+    styleUrls: ['./app/locationComponent/style.css']
 })
 
 export class LocationComponent {
@@ -21,7 +22,7 @@ export class LocationComponent {
                 this.locations = data;
                 console.info(this.locations);
             },
-            err => console.err(err)
+            err => console.error(err)
         );
     }
 
