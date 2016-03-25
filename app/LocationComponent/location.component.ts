@@ -9,7 +9,7 @@ import {LocationService} from '../services/location.service';
 
 export class LocationComponent {
 
-    locations:Locations;
+    locations;
 
     constructor(private _router:Router, private _routeParams:RouteParams, private locationService:LocationService) {
 
@@ -24,6 +24,7 @@ export class LocationComponent {
             },
             err => console.error(err)
         );
+
     }
 
 }
