@@ -1,9 +1,9 @@
 <div class="grid">
     <h2>Locations</h2>
-    <div *ngFor="#location of locations" class="one-quarter location-thumb">
+    <div *ngFor="#location of locations" class="one-quarter location-thumb"
+         [routerLink]="['Location', {id: location.obj._id}]">
         <div class="back-img"
              style="background-image:url('https://locator-app.com{{location.obj.images.normal}}')"></div>
         <h3>{{location.obj.title}}</h3>
-
     </div>
 </div>

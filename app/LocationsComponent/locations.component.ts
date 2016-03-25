@@ -1,21 +1,18 @@
 import {Component} from 'angular2/core';
-import {RouteParams, Router} from 'angular2/router';
+import {ROUTER_DIRECTIVES} from 'angular2/router';
 import {LocationService} from '../services/location.service';
 
 @Component({
-    templateUrl: './app/locationComponent/template.html',
-    styleUrls: ['./app/locationComponent/style.css']
+    templateUrl: './app/LocationsComponent/template.html',
+    styleUrls: ['./app/LocationsComponent/style.css'],
+    directives: [ROUTER_DIRECTIVES]
 })
 
-export class LocationComponent {
+export class LocationsComponent {
 
     locations;
 
-    constructor(private _router:Router, private _routeParams:RouteParams, private locationService:LocationService) {
-
-        let id = this._routeParams.get('id');
-        console.info(id);
-        console.info("jojo");
+    constructor(private locationService:LocationService) {
 
         locationService.getLocations().subscribe(
             data => {
