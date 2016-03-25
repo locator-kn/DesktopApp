@@ -15,4 +15,9 @@ export class LocationService {
         return this.http.get('https://locator-app.com/api/v2/locations/nearby?long=9.169753789901733&lat=47.66868204997508&maxDistance=10000&limit=100000')
             .map(res => res.json())
     }
+
+    getLocation(id) {
+        return this.http.get('https://locator-app.com/api/v2/locations/' + id)
+            .map(res => res.json())
+    }
 }
