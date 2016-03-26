@@ -10,6 +10,7 @@ import {LocationService} from '../services/location.service';
 export class LocationDetailComponent {
 
     location;
+    img;
 
     constructor(private _routeParams:RouteParams,
                 private locationService:LocationService) {
@@ -17,9 +18,10 @@ export class LocationDetailComponent {
         let id = this._routeParams.get('id');
         console.info(id);
 
-        locationService.getLocation("56e82be612daae1a4fdc2cb4").subscribe(
+        locationService.getLocation(id).subscribe(
             data => {
                 this.location = data;
+                this.img = this.location.images.xlarge;
                 console.info(this.location);
             },
             err => console.error(err)
