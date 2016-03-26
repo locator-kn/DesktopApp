@@ -11,10 +11,6 @@ h2, h3 {
     font-weight: lighter;
 }
 
-body {
-    margin: 2em;
-}
-
 div {
     box-sizing: border-box;
 }
@@ -22,4 +18,13 @@ div {
 body, input[text], button {
     color: #888;
     font-family: Cambria, Georgia;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    margin: 0;
 }
