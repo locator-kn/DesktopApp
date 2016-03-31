@@ -1,6 +1,7 @@
 {
   "name": "angular2-quickstart",
   "version": "1.0.0",
+  "main": "main.js",
   "scripts": {
     "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",
     "tsc": "tsc",
@@ -20,8 +21,9 @@
   },
   "devDependencies": {
     "concurrently": "^2.0.0",
+    "electron-prebuilt": "^0.37.3",
     "lite-server": "^2.1.0",
     "typescript": "^1.8.9",
-    "typings":"^0.7.9"
+    "typings": "^0.7.9"
   }
 }
