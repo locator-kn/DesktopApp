@@ -1,17 +1,17 @@
-#Locator as a desktop app 
-##based on Angular2, Electron and mucho Love :two_hearts:
+###Locator as a desktop app 
+###based on Angular2, Electron and mucho Love :two_hearts:
 
-###Setup
+####Setup
 ```
 npm i && bower install
 ```
 
-###Run in browser
+####Run in browser
 ```
 npm start
 ```
 
-###run in electron
+####run in electron
 ```
 ./node_modules/.bin/electron main.js
 ```
