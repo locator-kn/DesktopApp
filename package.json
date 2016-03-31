@@ -8,7 +8,8 @@
     "tsc:w": "tsc -w",
     "lite": "lite-server",
     "typings": "typings",
-    "postinstall": "typings install"
+    "postinstall": "typings install",
+    "electron": "./node_modules/.bin/electron main.js"
   },
   "license": "ISC",
   "dependencies": {

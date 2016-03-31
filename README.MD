@@ -12,5 +12,5 @@ npm start
 
 ####run in electron
 ```
-./node_modules/.bin/electron main.js
+npm run electron
 ```
