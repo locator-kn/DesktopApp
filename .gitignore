@@ -3,4 +3,5 @@ bower_components/
 .idea
 typings
 *.js
+!/main.js
 *js.map
