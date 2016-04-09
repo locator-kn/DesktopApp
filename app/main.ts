@@ -1,5 +1,4 @@
 /// <reference path="../node_modules/angular2/typings/browser.d.ts" />
-/// <reference path="../node_modules/typescript/lib/lib.es6.d.ts" />
 
 import {AppComponent} from './app.component';
 import {provide} from 'angular2/core';

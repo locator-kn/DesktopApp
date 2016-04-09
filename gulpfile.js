@@ -4,6 +4,7 @@ const typescript = require('gulp-typescript');
 const tscConfig = require('./tsconfig.json');
 const tslint = require('gulp-tslint');
 const webserver = require('gulp-webserver');
+const watch = require('gulp-watch');
 
 gulp.task('clean', function () {
     return del('dist/**/*');
@@ -12,20 +13,17 @@ gulp.task('clean', function () {
 gulp.task('ts', function () {
     return gulp
         .src('app/**/*.ts')
-        .pipe(watch('app/**/*.ts'))
         .pipe(typescript(tscConfig.compilerOptions))
         .pipe(gulp.dest('dist'));
 });
 
 gulp.task('html', function () {
     return gulp.src('app/**/*.html')
-        .pipe(watch('app/**/*.html'))
         .pipe(gulp.dest('dist'));
 });
 
 gulp.task('css', function () {
     return gulp.src('app/**/*.css')
-        .pipe(watch('app/**/*.css'))
         .pipe(gulp.dest('dist'));
 });
 
@@ -37,5 +35,11 @@ gulp.task('web', function() {
         }));
 });
 
-gulp.task('build', ['html', 'ts']);
+gulp.task('watch', ['build', 'web'] , function() {
+    gulp.watch('app/**/*.ts', ['ts']);
+    gulp.watch('app/**/*.css', ['css']);
+    gulp.watch('app/**/*.html', ['html']);
+});
+
+gulp.task('build', ['html', 'ts', 'css']);
 gulp.task('default', ['build']);
