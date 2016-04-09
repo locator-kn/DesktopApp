@@ -2,10 +2,9 @@ language: node_js
 node_js:
   - "4.2"
 before_script:
-    - 'export CHROME_BIN=chromium-browser'
-    - 'export DISPLAY=:99.0'
-    - 'sh -e /etc/init.d/xvfb start'
-    - 'npm install'
+  - "export DISPLAY=:99.0"
+  - "sh -e /etc/init.d/xvfb start"
+  - 'npm install'
 script:
   - './node_modules/gulp/bin/gulp.js build'
   - './node_modules/karma/bin/karma start karma.conf.js --single-run --browsers Chrome'
