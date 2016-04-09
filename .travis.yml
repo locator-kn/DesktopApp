@@ -1,10 +1,11 @@
 language: node_js
 node_js:
-  - "4.2"
+  - '4.2'
+before_install:
+    - export DISPLAY=:99.0
+    - sh -e /etc/init.d/xvfb start
 before_script:
-  - "export DISPLAY=:99.0"
-  - "sh -e /etc/init.d/xvfb start"
-  - 'npm install'
+    - npm install
 script:
   - './node_modules/gulp/bin/gulp.js build'
-  - './node_modules/karma/bin/karma start karma.conf.js --single-run --browsers Chrome'
+  - './node_modules/.bin/karma start --browsers Firefox --single-run'
