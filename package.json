@@ -1,14 +1,7 @@
 {
-  "name": "angular2-quickstart",
-  "version": "1.0.0",
+  "name": "Locator Dashboard",
+  "version": "0.1.0",
   "main": "main.js",
-  "scripts": {
-    "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",
-    "tsc": "tsc",
-    "tsc:w": "tsc -w",
-    "lite": "lite-server",
-    "typings": "typings"
-  },
   "license": "ISC",
   "dependencies": {
     "angular2": "2.0.0-beta.13",
