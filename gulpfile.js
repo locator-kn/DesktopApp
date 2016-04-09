@@ -5,6 +5,7 @@ const tscConfig = require('./tsconfig.json');
 const tslint = require('gulp-tslint');
 const webserver = require('gulp-webserver');
 const watch = require('gulp-watch');
+const KarmaServer = require('karma').Server;
 
 gulp.task('clean', function () {
     return del('dist/**/*');
@@ -27,7 +28,7 @@ gulp.task('css', function () {
         .pipe(gulp.dest('dist'));
 });
 
-gulp.task('web', function() {
+gulp.task('web', function () {
     gulp.src('./')
         .pipe(webserver({
             livereload: false,
@@ -35,10 +36,17 @@ gulp.task('web', function() {
         }));
 });
 
-gulp.task('watch', ['build', 'web'] , function() {
+gulp.task('watch', ['build', 'web'], function () {
     gulp.watch('app/**/*.ts', ['ts']);
     gulp.watch('app/**/*.css', ['css']);
     gulp.watch('app/**/*.html', ['html']);
+});
+
+gulp.task('test', function(done) {
+    new KarmaServer({
+        configFile: __dirname + '/karma.conf.js',
+        singleRun: true
+    }, function() { done(); }).start();
 });
 
 gulp.task('build', ['html', 'ts', 'css']);
