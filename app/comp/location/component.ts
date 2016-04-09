@@ -1,13 +1,14 @@
 import {Component} from 'angular2/core';
 import {RouteParams} from 'angular2/router';
-import {LocationService} from '../services/location.service';
+import {LocationService} from '../../service/location.service';
 
 @Component({
-    templateUrl: './app/LocationDetailComponent/template.html',
-    styleUrls: ['./app/LocationDetailComponent/style.css']
+    templateUrl: './app/comp/location/template.html',
+    styleUrls: ['./app/comp/location/style.css'],
+    providers: [LocationService]
 })
 
-export class LocationDetailComponent {
+export class Location {
 
     location;
     img;

@@ -1,14 +1,14 @@
 import {Component} from 'angular2/core';
 import {ROUTER_DIRECTIVES} from 'angular2/router';
-import {LocationService} from '../services/location.service';
+import {LocationService} from '../../service/location.service';
 
 @Component({
-    templateUrl: './app/LocationsComponent/template.html',
-    styleUrls: ['./app/LocationsComponent/style.css'],
+    templateUrl: './app/comp/locationList/template.html',
+    styleUrls: ['./app/comp/locationList/style.css'],
     directives: [ROUTER_DIRECTIVES]
 })
 
-export class LocationsComponent {
+export class LocationList {
 
     locations;
 
