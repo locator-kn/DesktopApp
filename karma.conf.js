@@ -45,7 +45,8 @@ module.exports = function (config) {
         plugins: [
             'karma-jasmine',
             'karma-coverage',
-            'karma-chrome-launcher'
+            'karma-chrome-launcher',
+            'karma-firefox-launcher'
         ],
 
         // Coverage reporter generates the coverage
