@@ -1,4 +1,4 @@
-module.exports = function(config) {
+module.exports = function (config) {
     config.set({
 
         basePath: '',
@@ -25,8 +25,8 @@ module.exports = function(config) {
             // {pattern: 'app/**/*.css', included: false, watched: true},
 
             // paths to support debugging with source maps in dev tools
-           // {pattern: 'app/**/*.ts', included: false, watched: false},
-           // {pattern: 'app/**/*.js.map', included: false, watched: false}
+            // {pattern: 'app/**/*.ts', included: false, watched: false},
+            // {pattern: 'app/**/*.js.map', included: false, watched: false}
         ],
 
         // proxied base paths
@@ -35,12 +35,34 @@ module.exports = function(config) {
             "/app/": "/base/app/"
         },
 
-        reporters: ['progress'],
         port: 9876,
         colors: true,
         logLevel: config.LOG_INFO,
         autoWatch: true,
         browsers: ['Chrome'],
+
+        // Karma plugins loaded
+        plugins: [
+            'karma-jasmine',
+            'karma-coverage',
+            'karma-chrome-launcher'
+        ],
+
+        // Coverage reporter generates the coverage
+        reporters: ['progress', 'dots', 'coverage'],
+
+        // Source files that you wanna generate coverage for.
+        // Do not include tests or libraries (these files will be instrumented by Istanbul)
+        preprocessors: {
+            'dist/**/!(*spec).js': ['coverage']
+        },
+
+        coverageReporter: {
+            reporters: [
+                {type: 'json', subdir: '.', file: 'coverage-final.json'}
+            ]
+        },
+
         singleRun: true
     })
 }

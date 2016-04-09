@@ -42,11 +42,13 @@ gulp.task('watch', ['build', 'web'], function () {
     gulp.watch('app/**/*.html', ['html']);
 });
 
-gulp.task('test', function(done) {
+gulp.task('test', ['build'], function (done) {
     new KarmaServer({
         configFile: __dirname + '/karma.conf.js',
         singleRun: true
-    }, function() { done(); }).start();
+    }, function () {
+        done();
+    }).start();
 });
 
 gulp.task('build', ['html', 'ts', 'css']);
