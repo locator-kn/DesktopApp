@@ -4,3 +4,5 @@ bower_components/
 typings
 dist
 coverage
+env.json
+Locator-darwin-x64
