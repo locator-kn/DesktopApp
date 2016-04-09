@@ -19,6 +19,8 @@ export class Location {
         let id = this._routeParams.get('id');
         console.info(id);
 
+        console.info('yollo');
+
         locationService.getLocation(id).subscribe(
             data => {
                 this.location = data;
