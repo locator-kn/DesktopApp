@@ -1,7 +1,7 @@
 {
   "name": "Locator-Dashboard",
   "repository": "https://github.com/locator-kn/dashboard",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "main": "main.js",
   "license": "ISC",
   "scripts": {
