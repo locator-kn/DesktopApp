@@ -8,8 +8,18 @@ const watch = require('gulp-watch');
 const KarmaServer = require('karma').Server;
 const shell = require('gulp-shell');
 const fs = require('fs');
-const env = JSON.parse(fs.readFileSync('./env.json', 'utf-8'));
 const bump = require('gulp-bump');
+
+var env = {};
+
+fs.exists('./env.json', function (exists) {
+    if (exists) {
+        env = JSON.parse(fs.readFileSync('./env.json', 'utf-8'));
+    } else {
+        env.token = '';
+        env.identity = '';
+    }
+});
 
 gulp.task('clean', function () {
     return del('dist/**/*');
