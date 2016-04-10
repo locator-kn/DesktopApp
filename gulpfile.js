@@ -7,19 +7,8 @@ const webserver = require('gulp-webserver');
 const watch = require('gulp-watch');
 const KarmaServer = require('karma').Server;
 const shell = require('gulp-shell');
-const fs = require('fs');
 const bump = require('gulp-bump');
 
-var env = {};
-
-fs.exists('./env.json', function (exists) {
-    if (exists) {
-        env = JSON.parse(fs.readFileSync('./env.json', 'utf-8'));
-    } else {
-        env.token = '';
-        env.identity = '';
-    }
-});
 
 gulp.task('clean', function () {
     return del('dist/**/*');
@@ -68,8 +57,8 @@ gulp.task('test', ['build'], function (done) {
 gulp.task('deploy', ['bump'], shell.task([
     'rm -rf Locator-darwin-x64',
     './node_modules/.bin/electron-packager . Locator --platform=darwin --arch=x64 --ignore "node_modules/remap-istanbul" --ignore "node_modules/gulp-*" --ignore "node_modules/http-server" --ignore "node_modules/karma-*" --ignore "node_modules/electron-*" --ignore "node_modules/jasmine-*" --ignore "node_modules/lite-server" --overwrite',
-    'codesign --deep --force --verbose --sign ' + env.identity + ' Locator-darwin-x64/Locator.app',
-    './node_modules/.bin/electron-release --app Locator-darwin-x64/Locator.app --token ' + env.token + ' --repo locator-kn/dashboard'
+    'codesign --deep --force --verbose --sign ' + process.env.identity + ' Locator-darwin-x64/Locator.app',
+    './node_modules/.bin/electron-release --app Locator-darwin-x64/Locator.app --token ' + process.env.token + ' --repo locator-kn/dashboard'
 ]));
 
 gulp.task('bump', function () {
