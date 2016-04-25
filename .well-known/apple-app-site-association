@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "1089324532.com.locator-app",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
