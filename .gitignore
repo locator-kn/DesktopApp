@@ -6,3 +6,4 @@ dist
 coverage
 env.json
 Locator-darwin-x64
+.well-known/
